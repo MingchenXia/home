@@ -4,83 +4,141 @@ Welcome to my homepage
 I am now a post-doc at [IMJ-PRG](https://www.imj-prg.fr). My mentor is [Sébastien Boucksom](http://sebastien.boucksom.perso.math.cnrs.fr).
 I obtained my PhD in [Chalmers Tekniska Högskola](https://www.chalmers.se/sv/Sidor/default.aspx) in Sweden under the supervision of Robert Berman.
 
-Domain of research: Complex geometry, Kähler geometry, pluripotential theory, non-Archimedean geometry, number theory
 
 My name in Chinese: 夏铭辰(Simplified)/夏銘辰(Traditional)
 
-Email: mingchen@imj-prg.fr 
+Email: <mingchen@imj-prg.fr>
 
-![I am a Pastafarian.](/FSM.jpg)
+I'm learning the Kudla--Rapoport and Katz--Mazur. Updated on November 6, 2022.
 
-
-
-##  Research Interests 🧐
-
-I am a mathematician working in areas related to 2d conformal field theories, including vertex operator algebras, conformal nets (more generally, algebraic quantum field thoery, which uses the methods of von Neumann algebras and subfactors), tensor categories, etc. 
-
-<!--I view myself an analyst rather than (say) an algebraist, a geometer, or a topologist. This means that I need less motivational background to study analysis than to study the other branches of mathematics, and that I tend to understand the other branches in an analytic way.-->
+![I am a Pastafarian.](Pictures/FSM.jpg)
 
 
+##  Research Interests 
+
+Complex geometry, Kähler geometry, pluripotential theory, non-Archimedean geometry, number theory.
+
+## Some Problems
+
+This is a collection of problems arising from my own research that may be of interest to people outside my domain.  If you know the solutions to any of the following problems, please let me know.
+
+- [Flat pull-back of currents on complex analytic spaces](https://mathoverflow.net/questions/407628/regularity-of-fiber-integration-between-complex-analytic-spaces)
+
+- [Compute mixed volumes of big line bundles from Okounkov bodies](https://mathoverflow.net/questions/408179/mixed-volumes-of-newton-okounkov-bodies)
+
+> By [a theorem of Jow](https://arxiv.org/abs/0902.2521), information of all Okounkov bodies determines all numerical information of line bundles. This problem asks for explicit formulae.
+## Notes 
+
+- [Relative pluripotential theory](Notes/RPT.pdf) (Chapter I to Chapter III) 
 
 
+> Just a preliminary version with potentially many mistakes. I'm slowly adding new materials.
 
-## Courses 😪
-- (2022 Spring) [Vertex Operator Algebras, Conformal Blocks, and Tensor Categories](Course_2022_VOA.md)
-
-
-## Publications and Preprints 😵‍💫
+- [Radial Calabi flow](Notes/RCF.pdf)  
 
 
+> One of my unfinished projects. It contains a number of conjectures of interest.
 
-> The following articles are listed in the order they were finished and submitted to arXiv. The arXiv indentifiers (YYMM.NNNNN) indicate the time of submission. Note that the preprints on this website might be more updated than the arXiv versions.
-
-- Unitarity of The Modular Tensor Categories Associated to Unitary Vertex Operator Algebras, I, ***Comm. Math. Phys.***, (2019) 366(1), pp.333-396. `arXiv:1711.02840` [Preprint](Files/2017_UU1.pdf) [Typos](Files/2017_UU1_Typos.pdf)
-
-- Unitarity of The Modular Tensor Categories Associated to Unitary Vertex Operator Algebras, II,  ***Comm. Math. Phys.***, (2019) 372: 893-950. `arXiv:1712.04931` [Preprint](Files/2017_UU2.pdf) 
-
-
-
+- [Pluripotential theory on complex analytic spaces](Notes/PTV.pdf)
  
-- Energy Bounds Condition for Intertwining Operators of Type B, C, and G_2
-unitary affine vertex operator algebras,  ***Trans. Amer. Math. Soc.***, 372 (2019), 7371-7424. `arXiv:1809.07003` [Preprint](Files/2018_BCG.pdf)
+> This is not a research article. I simply want to provide a reference for my work in progress about pluripotential theory on polyhedral spaces.
+
+- [Note on $L^2$-methods in global pluripotential theory](Notes/MIS.pdf)
+
+> My personal notes when learning the $L^2$ methods, I plan to include more details in the future. This note contains an example of a reverse Bertini theorem, which seems to be new.
+
+- [Note on relative normalisations](Notes/RN.pdf)
+
+> I collect a few well-known results about relative normalisations.
+
+- Notes on the toroidal compactifications of Shimura varieties: [I](Notes/SV1.pdf), [II](Notes/SV2.pdf), [III](Notes/SV3.pdf), [X](Notes/SV10.pdf).
+
+> I'm organizing a seminar about Ash--Mumford--Rpoport--Tai. I will try to write more notes in the near future.
+
+## Beamers
 
 
+- [Pluripotential-theoretic approach to radial energy functionals](Beamers/PTA.pdf)  Beijing university, 11/20/2020.
 
-- Categorical Extensions of Conformal Nets, ***Comm. Math. Phys.***, 383, 763-839 (2021). `arXiv:1812.04470` [Preprint](Files/2018_CE.pdf) (A [talk](https://www.youtube.com/watch?v=E-05-DkG2xc) with [slides](Files/2021_Categorical_Extensions_MPPM.pdf))
+- [Analytic Bertini theorem](Beamers/ABT.pdf) Oslo SCV conference, 12/18/2021.
 
-- Q-systems and extensions of completely unitary vertex operator algebras, ***Int. Math. Res. Not. IMRN***, Vol 2022, Issue 10, 7550–7614 `arXiv:1908.03484` [Preprint](Files/2019_Ext.pdf)
+- [A mathematician’s complaint about Hermitian operators](Beamers/MC.pdf) A talk for physicists during an informal seminar, 12/10/2021.
 
-- Bisognano-Wichmann Property for Rigid Categorical Extensions and Non-local Extensions of Conformal Nets, ***Ann. Henri Poincaré***, 22, 4017-4062 (2021). `arXiv:1912.10682` [Preprint](Files/2019_Bisognano-Wichmann.pdf)
+- [The volume of pseudo-effective line bundles and partial Okounkov bodies](Beamers/VPPO.pdf)  YMSC Tsinghua university, 12/20/2021.
 
-- Unbounded Field Operators in Categorical Extensions of Conformal Nets, submitted. `arXiv:2001.03095` [Preprint](Files/2020_Strong-Braiding.pdf)
-
-- Regular Vertex Operator Subalgebras and Compressions of Intertwining Operators, ***J. Algebra***, (2020) 564. 32-48. `arXiv:2003.02921` [Preprint](Files/2020_Compressions.pdf)
-
-- Polynomial Energy Bounds for Type F_4 WZW-models, ***Internat. J. Math.***, Vol. 31, No. 12 (2020). `arXiv:2004.02064` [Preprint](Files/2020_F4.pdf)
-
-- Convergence of Sewing Conformal Blocks, submitted. `arXiv:2011.07450`  [Preprint](Files/2020_Sewing.pdf)
-
-- Sewing and Propagation of Conformal Blocks. `arXiv:2110.04774`  [Preprint](Files/2021_Propagation.pdf)
-
-- Genus-zero Permutation-twisted Conformal Blocks for Tensor Product Vertex Operator Algebras: The Tensor-factorizable Case.  `arXiv:2111.04662`  [Preprint](Files/2021_Permutation.pdf)  [Slides](Files/2022_BIMSA.pdf)
-
-- On a Connes Fusion Approach to Finite Index Extensions of Conformal Nets. `arXiv:2112.15396`  [Preprint](Files/2021_Extensions.pdf)
+- [Chern--Weil formulae of singular Hermitian vector bundles](Beamers/CWF.pdf)  Aarhus, 05/20/2022.
 
 
-## Notes 🥱
+## Research
 
-- [Conformal Blocks: Vector Bundle Structures, Sewing, and Factorization](Files/2020_Conformal_Blocks.pdf) 
+> Errare humanum est.
+
+All of my preprints can be found on arXiv. See [my Google Scholar page](https://scholar.google.se/citations?user=1GbYhEMAAAAJ) as well.
+
+### K-stability
+
+- On sharp lower bounds for Calabi type functionals and destabilizing properties of gradient flows, ***Analysis & PDE***, (2021).  [arXiv:1901.07889](https://arxiv.org/abs/1901.07889) [Journal link](https://msp.org/apde/2021/14-6/p12.xhtml)
+
+- Pluripotential-theoretic stability thresholds, ***IMRN***, (2022).  [arXiv:2012.12039](https://arxiv.org/abs/2012.12039) [Journal link](https://academic.oup.com/imrn/advance-article-abstract/doi/10.1093/imrn/rnac186/6644735)
 
 
-> In this monograph we give a complex-analytic approach to the theory of conformal blocks for VOAs. Part of this note has been adapted to form the main body of my article *Convergence of Sewing Conformal Blocks*. The section on (multi) propagation of conformal blocks has been expanded and explained in more details in the article *Sewing and Propagation of Conformal Blocks*.
+### Pluripotential theory
 
-- [Spectral Theory for Strongly Commuting Normal Closed Operators](Files/2021_Spectral.pdf) 
+- Integration by parts formula for non-pluripolar product.  [arXiv:1907.06359](https://arxiv.org/abs/1907.06359)
+
+> This paper was the first proof of the integration by parts formula. However, a better approach was found later on by Lu, so this paper is no longer important. I don't intend to submit it.
+ 
+- Mabuchi geometry of big cohomology classes with prescribed singularities. [arXiv:1907.07234](https://arxiv.org/abs/1907.07234)
+
+- The closures of test configurations and algebraic singularity types, (joint with Tamás Darvas), ***Advances in Mathematics***, (2022).  [arXiv:2003.04818](https://arxiv.org/abs/2003.04818) [Journal link](https://www.sciencedirect.com/science/article/pii/S0001870822000147)
+
+- The volume of pseudoeffective line bundles and partial equilibrium, (joint with Tamás Darvas). [arXiv:2112.03827](https://arxiv.org/abs/2112.03827)
+
+- Partial Okounkov bodies and Duistermaat--Heckman measures of non-Archimedean metrics. [arXiv:2112.04290](https://arxiv.org/abs/2112.04290)
+
+> [This](/Papers/POB.pdf) is a slightly better version than the arXiv version. Several typos are fixed, and one additional reference is added. There is a slight mistake in the arXiv version: <span style="color:red">In Section 4, the standing hypothesis should be that the classes are big instead of pseudo-effective.</span>
 
 
-> We give a detailed and self-contained exposition of the topics indicated in the title of this monograph. I origianally planned to give a course "Unbounded Operators in Conformal Field Theories" at Yau Mathematical Sciences Center in 2022 Spring, but have since changed the course topic to VOAs and conformal blocks. This monograph is the outcome of the preparation of that course.
+### Non-Archimedean geometry and algebraic geometry
 
-- [Lectures on Vertex Operator Algebras and Conformal Blocks](Files/2022_VOA_Lectures.pdf)
+- On Liu morphisms in non-Archimedean geometry. [arXiv:2106.08032](https://arxiv.org/abs/2106.08032)
 
-> These are the lecture notes for my course [Vertex Operator Algebras, Conformal Blocks, and Tensor Categories](Course_2022_VOA.md)  given at Yau Mathematical Sciences Center in 2022 Spring.
+- Analytic Bertini theorem, ***Mathematische Zeitschrift***, (2022).  [arXiv:2110.14971](https://arxiv.org/abs/2110.14971) [Journal link](https://link.springer.com/article/10.1007/s00209-022-03103-7)
+
+### Number theory
+
+- Non-pluripolar products on vector bundles and Chern--Weil formulae on mixed Shimura varieties. [arXiv:2210.15342](https://arxiv.org/abs/2210.15342)
+
+> [This](/Papers/CW.pdf) is a better version than the arXiv version. A new reference is included. <span style="color:red"> Proposition 13.1 in the arXiv version is not correct.</span>
+I will update the arXiv version later before the end of this year.
+
+## Links for working mathematicians
+
+### Legal links
+
+- [Online math seminars](https://researchseminars.org)
+
+- [Tikz-cd editor](https://tikzcd.yichuanshen.de)
+
+- [Quiver](https://q.uiver.app)
+
+- [Stacks Project](https://stacks.math.columbia.edu)
+
+- [Kerodon](https://kerodon.net)
+
+### Illegal links
+
+- [ZLibrary](https://b-ok.org)
+
+> Taken down by the US government. R.I.P.
+
+- [Libgen](http://gen.lib.rus.ec)
+
+> If you hate Elvasier or like free knowledge, please download books from these links.
+
+- [Sci-hub](https://sci-hub.se)
+
+> Sci-hub is getting blocked in many countries recently. If the link fails to work, please try to change the domain name.
+
 
 
