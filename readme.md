@@ -9,7 +9,7 @@ My name in Chinese: 夏铭辰(Simplified)/夏銘辰(Traditional)
 
 Email: <mingchen@imj-prg.fr>
 
-I'm learning the Kudla--Rapoport and Katz--Mazur. Updated on November 6, 2022.
+I'm learning Katz--Mazur. Updated on November 6, 2022.
 
 ![I am a Pastafarian.](Pictures/FSM.jpg)
 
