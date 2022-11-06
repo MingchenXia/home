@@ -1,21 +1,16 @@
 Welcome to my homepage
 
-## About Me 😼
-I am now an assistant professor at Tsinghua University, Yau Mathematical Sciences Center.
+## About Me 
+I am now a post-doc at [IMJ-PRG](https://www.imj-prg.fr). My mentor is [Sébastien Boucksom](http://sebastien.boucksom.perso.math.cnrs.fr).
+I obtained my PhD in [Chalmers Tekniska Högskola](https://www.chalmers.se/sv/Sidor/default.aspx) in Sweden under the supervision of Robert Berman.
 
-My name in Chinese: 归斌/歸斌
+Domain of research: Complex geometry, Kähler geometry, pluripotential theory, non-Archimedean geometry, number theory
 
-Email: <br>
-binguimath(at)gmail(dot)com <br>
-bingui(at)tsinghua(dot)edu(dot)cn
+My name in Chinese: 夏铭辰(Simplified)/夏銘辰(Traditional)
 
+Email: mingchen@imj-prg.fr 
 
-[Google Scholar](https://scholar.google.com/citations?user=J1eHXH0AAAAJ&hl=en)
-
-[arXiv webpage](https://arxiv.org/a/gui_b_1.html)
-
-[Biography](Bio.md)
-
+![I am a Pastafarian.](/FSM.jpg)
 
 
 
