@@ -27,6 +27,7 @@ This is a collection of problems arising from my own research that may be of int
 - [Compute mixed volumes of big line bundles from Okounkov bodies](https://mathoverflow.net/questions/408179/mixed-volumes-of-newton-okounkov-bodies)
 
 > By [a theorem of Jow](https://arxiv.org/abs/0902.2521), information of all Okounkov bodies determines all numerical information of line bundles. This problem asks for explicit formulae.
+
 ## Notes 
 
 - [Relative pluripotential theory](Notes/RPT.pdf) (Chapter I to Chapter III) 
