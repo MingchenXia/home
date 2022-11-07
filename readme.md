@@ -52,9 +52,9 @@ This is a collection of problems arising from my own research that may be of int
 
 > I collect a few well-known results about relative normalisations.
 
-- Notes on the toroidal compactifications of Shimura varieties: [I](Notes/SV1.pdf), [II](Notes/SV2.pdf), [III](Notes/SV3.pdf), [X](Notes/SV10.pdf).
+- Notes on the toroidal compactifications of Shimura varieties: [I](Notes/SV1.pdf), [II](Notes/SV2.pdf), [III](Notes/SV3.pdf), [X](Notes/SV10.pdf), [XIII](Notes/SV13.pdf).
 
-> I'm organizing a seminar about Ash--Mumford--Rpoport--Tai. I will try to write more notes in the near future.
+> I'm organizing a seminar about Ash--Mumford--Rapoport--Tai. I will try to write more notes in the near future.
 
 ## Beamers
 
