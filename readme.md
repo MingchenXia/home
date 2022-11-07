@@ -135,7 +135,7 @@ I will update the arXiv version later before the end of this year.
 
 - [Libgen](http://gen.lib.rus.ec)
 
-> If you hate Elvasier or like free knowledge, please download books from these links.
+> If you hate Elsevier or like free knowledge, please download books from these links.
 
 - [Sci-hub](https://sci-hub.se)
 
