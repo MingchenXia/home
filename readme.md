@@ -56,6 +56,10 @@ This is a collection of problems arising from my own research that may be of int
 
 > I'm organizing a seminar about Ash--Mumford--Rapoport--Tai. I will try to write more notes in the near future.
 
+- Notes on Katz--Mazur [I](Notes/KM1.pdf).
+
+> My personal notes on Katz--Mazur. I want to refomulate everything in the language of stacks.
+
 ## Beamers
 
 
