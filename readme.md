@@ -72,7 +72,7 @@ This is a collection of problems arising from my own research that may be of int
 
 ## Ymir
 
-I initiated a project [Ymir](mingchenxia.github.io/Ymir), trying to build a Stacks Project for complex analytic spaces and rigid analytic spaces.
+I initiated a project [Ymir](https://github.com/MingchenXia/ymir), trying to build a Stacks Project for complex analytic spaces and rigid analytic spaces.
 
 ## Research
 
