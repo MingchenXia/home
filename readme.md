@@ -14,9 +14,6 @@ I'm learning Katz--Mazur. Updated on November 6, 2022.
 ![I am a Pastafarian.](Pictures/FSM.jpg)
 
 
-##  Research Interests 
-
-Complex geometry, Kähler geometry, pluripotential theory, non-Archimedean geometry, number theory.
 
 ## Some Problems
 
@@ -73,6 +70,9 @@ This is a collection of problems arising from my own research that may be of int
 
 - [Chern--Weil formulae of singular Hermitian vector bundles](Beamers/CWF.pdf)  Aarhus, 05/20/2022.
 
+## Ymir
+
+I initiated a project [Ymir](mingchenxia.github.io/Ymir), trying to build a Stacks Project for complex analytic spaces and rigid analytic spaces.
 
 ## Research
 
