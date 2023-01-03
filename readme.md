@@ -1,6 +1,6 @@
 Welcome to my homepage
 
-## About Me 
+## About Me
 I am now a post-doc at [IMJ-PRG](https://www.imj-prg.fr). My mentor is [Sébastien Boucksom](http://sebastien.boucksom.perso.math.cnrs.fr).
 I obtained my PhD in [Chalmers Tekniska Högskola](https://www.chalmers.se/sv/Sidor/default.aspx) in Sweden under the supervision of Robert Berman.
 
@@ -8,6 +8,8 @@ I obtained my PhD in [Chalmers Tekniska Högskola](https://www.chalmers.se/sv/Si
 My name in Chinese: 夏铭辰(Simplified)/夏銘辰(Traditional)
 
 Email: <mingchen@imj-prg.fr>
+
+Office: Jussieu 1516-504.
 
 I'm learning Katz--Mazur. Updated on November 6, 2022.
 
@@ -106,7 +108,7 @@ All of my preprints can be found on arXiv. See [my Google Scholar page](https://
 
 ### Non-Archimedean geometry and algebraic geometry
 
-- On Liu morphisms in non-Archimedean geometry. [arXiv:2106.08032](https://arxiv.org/abs/2106.08032)
+- On Liu morphisms in non-Archimedean geometry, ***Israel Journal of Mathematics, (2022)***. [arXiv:2106.08032](https://arxiv.org/abs/2106.08032) [Journal link](https://link.springer.com/article/10.1007/s11856-022-2456-6)
 
 - Analytic Bertini theorem, ***Mathematische Zeitschrift***, (2022).  [arXiv:2110.14971](https://arxiv.org/abs/2110.14971) [Journal link](https://link.springer.com/article/10.1007/s00209-022-03103-7)
 
@@ -114,8 +116,7 @@ All of my preprints can be found on arXiv. See [my Google Scholar page](https://
 
 - Non-pluripolar products on vector bundles and Chern--Weil formulae on mixed Shimura varieties. [arXiv:2210.15342](https://arxiv.org/abs/2210.15342)
 
-> [This](/Papers/CW.pdf) is a better version than the arXiv version. A new reference is included. <span style="color:red"> Proposition 13.1 in the arXiv version is not correct.</span>
-I will update the arXiv version later before the end of this year.
+
 
 ## Links for working mathematicians
 
