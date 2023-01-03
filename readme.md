@@ -1,9 +1,9 @@
-Welcome to my homepage
+# Welcome to my homepage
 
 ## About Me
+
 I am now a post-doc at [IMJ-PRG](https://www.imj-prg.fr). My mentor is [Sébastien Boucksom](http://sebastien.boucksom.perso.math.cnrs.fr).
 I obtained my PhD in [Chalmers Tekniska Högskola](https://www.chalmers.se/sv/Sidor/default.aspx) in Sweden under the supervision of Robert Berman.
-
 
 My name in Chinese: 夏铭辰(Simplified)/夏銘辰(Traditional)
 
@@ -15,8 +15,6 @@ I'm learning Katz--Mazur. Updated on November 6, 2022.
 
 ![I am a Pastafarian.](Pictures/FSM.jpg)
 
-
-
 ## Some Problems
 
 This is a collection of problems arising from my own research that may be of interest to people outside my domain.  If you know the solutions to any of the following problems, please let me know.
@@ -27,20 +25,18 @@ This is a collection of problems arising from my own research that may be of int
 
 > By [a theorem of Jow](https://arxiv.org/abs/0902.2521), information of all Okounkov bodies determines all numerical information of line bundles. This problem asks for explicit formulae.
 
-## Notes 
+## Notes
 
-- [Relative pluripotential theory](Notes/RPT.pdf) (Chapter I to Chapter III) 
-
+- [Relative pluripotential theory](Notes/RPT.pdf) (Chapter I to Chapter III)
 
 > Just a preliminary version with potentially many mistakes. I'm slowly adding new materials.
 
 - [Radial Calabi flow](Notes/RCF.pdf)  
 
-
 > One of my unfinished projects. It contains a number of conjectures of interest.
 
 - [Pluripotential theory on complex analytic spaces](Notes/PTV.pdf)
- 
+
 > This is not a research article. I simply want to provide a reference for my work in progress about pluripotential theory on polyhedral spaces.
 
 - [Note on $L^2$-methods in global pluripotential theory](Notes/MIS.pdf)
@@ -61,7 +57,6 @@ This is a collection of problems arising from my own research that may be of int
 
 ## Beamers
 
-
 - [Pluripotential-theoretic approach to radial energy functionals](Beamers/PTA.pdf)  Beijing university, 11/20/2020.
 
 - [Analytic Bertini theorem](Beamers/ABT.pdf) Oslo SCV conference, 12/18/2021.
@@ -70,13 +65,11 @@ This is a collection of problems arising from my own research that may be of int
 
 - [The volume of pseudo-effective line bundles and partial Okounkov bodies](Beamers/VPPO.pdf)  YMSC Tsinghua university, 12/20/2021.
 
-- [Chern--Weil formulae of singular Hermitian vector bundles](Beamers/CWF.pdf)  Aarhus, 05/20/2022.
+- [Chern--Weil formulae of singular Hermitian vector bundles](Beamers/CWF.pdf) Aarhus, 05/20/2022.
 
 ## Ymir
 
-[Ymir](https://mingchenxia.github.io/Ymir/) is intended to be a Stacks Project for complex analytic spaces and non-Archimedean analytic spaces. 
-
-
+[Ymir](https://mingchenxia.github.io/Ymir/) is intended to be a Stacks Project for complex analytic spaces and non-Archimedean analytic spaces.
 
 ## Research
 
@@ -90,13 +83,12 @@ All of my preprints can be found on arXiv. See [my Google Scholar page](https://
 
 - Pluripotential-theoretic stability thresholds, ***IMRN***, (2022).  [arXiv:2012.12039](https://arxiv.org/abs/2012.12039) [Journal link](https://academic.oup.com/imrn/advance-article-abstract/doi/10.1093/imrn/rnac186/6644735)
 
-
 ### Pluripotential theory
 
 - Integration by parts formula for non-pluripolar product.  [arXiv:1907.06359](https://arxiv.org/abs/1907.06359)
 
 > This paper was the first proof of the integration by parts formula. However, a better approach was found later on by Lu, so this paper is no longer important. I don't intend to submit it.
- 
+
 - Mabuchi geometry of big cohomology classes with prescribed singularities. [arXiv:1907.07234](https://arxiv.org/abs/1907.07234)
 
 - The closures of test configurations and algebraic singularity types, (joint with Tamás Darvas), ***Advances in Mathematics***, (2022).  [arXiv:2003.04818](https://arxiv.org/abs/2003.04818) [Journal link](https://www.sciencedirect.com/science/article/pii/S0001870822000147)
@@ -107,7 +99,6 @@ All of my preprints can be found on arXiv. See [my Google Scholar page](https://
 
 > [This](/Papers/POB.pdf) is a slightly better version than the arXiv version. Several typos are fixed, and one additional reference is added. There is a slight mistake in the arXiv version: <span style="color:red">In Section 4, the standing hypothesis should be that the classes are big instead of pseudo-effective.</span>
 
-
 ### Non-Archimedean geometry and algebraic geometry
 
 - On Liu morphisms in non-Archimedean geometry, ***Israel Journal of Mathematics, (2022)***. [arXiv:2106.08032](https://arxiv.org/abs/2106.08032) [Journal link](https://link.springer.com/article/10.1007/s11856-022-2456-6)
@@ -117,8 +108,6 @@ All of my preprints can be found on arXiv. See [my Google Scholar page](https://
 ### Number theory
 
 - Non-pluripolar products on vector bundles and Chern--Weil formulae on mixed Shimura varieties. [arXiv:2210.15342](https://arxiv.org/abs/2210.15342)
-
-
 
 ## Links for working mathematicians
 
@@ -147,6 +136,3 @@ All of my preprints can be found on arXiv. See [my Google Scholar page](https://
 - [Sci-hub](https://sci-hub.se)
 
 > Sci-hub is getting blocked in many countries recently. If the link fails to work, please try to change the domain name.
-
-
-
