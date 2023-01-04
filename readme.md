@@ -55,6 +55,10 @@ This is a collection of problems arising from my own research that may be of int
 
 > My personal notes on Katz--Mazur. I want to refomulate everything in the language of stacks.
 
+- [Hausdorff convergence properties of partial Okounkov bodies](Notes/HCP.pdf).
+
+> I fully answered the conjecture in my paper about partial Okounkov boides.
+
 ## Beamers
 
 - [Pluripotential-theoretic approach to radial energy functionals](Beamers/PTA.pdf)  Beijing university, 11/20/2020.
@@ -66,6 +70,8 @@ This is a collection of problems arising from my own research that may be of int
 - [The volume of pseudo-effective line bundles and partial Okounkov bodies](Beamers/VPPO.pdf)  YMSC Tsinghua university, 12/20/2021.
 
 - [Chern--Weil formulae of singular Hermitian vector bundles](Beamers/CWF.pdf) Aarhus, 05/20/2022.
+
+- [Les singularités $\mathcal{I}$-bonnes --- L'intersection entre la théorie analytique et la théorie algébrique](Beamers/IBS.pdf) IMJ-PRG, 01/03/2023.
 
 ## Ymir
 
@@ -98,6 +104,8 @@ All of my preprints can be found on arXiv. See [my Google Scholar page](https://
 - Partial Okounkov bodies and Duistermaat--Heckman measures of non-Archimedean metrics. [arXiv:2112.04290](https://arxiv.org/abs/2112.04290)
 
 > [This](/Papers/POB.pdf) is a slightly better version than the arXiv version. Several typos are fixed, and one additional reference is added. There is a slight mistake in the arXiv version: <span style="color:red">In Section 4, the standing hypothesis should be that the classes are big instead of pseudo-effective.</span>
+
+> The Hausdorff convergence property is proved in full generality in my note [Hausdorff convergence properties of partial Okounkov bodies](Notes/HCP.pdf).
 
 ### Non-Archimedean geometry and algebraic geometry
 
