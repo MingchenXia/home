@@ -57,7 +57,9 @@ This is a collection of problems arising from my own research that may be of int
 
 - [Hausdorff convergence properties of partial Okounkov bodies](Notes/HCP.pdf).
 
-> I fully answered the conjecture in my paper about partial Okounkov boides.
+> I fully answered the conjecture about partial Okounkov boides in my paper. I haven't decided yet if this should be written as a paper or a note.
+
+- Notes on Hodge theory: [Carlson's correspondence](Notes/HodgeI.pdf).
 
 ## Beamers
 
