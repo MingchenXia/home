@@ -11,7 +11,7 @@ Email: <mingchen@imj-prg.fr>
 
 Office: Jussieu 1516-504.
 
-I'm learning Katz--Mazur. Updated on November 6, 2022.
+I'm learning Berlinson's nearby cycle. Updated on January 25, 2023.
 
 ![I am a Pastafarian.](Pictures/FSM.jpg)
 
@@ -60,6 +60,8 @@ This is a collection of problems arising from my own research that may be of int
 > I fully answered the conjecture about partial Okounkov boides in my paper. I haven't decided yet if this should be written as a paper or a note.
 
 - Notes on Hodge theory: [Carlson's correspondence](Notes/Hodge1.pdf).
+
+- Notes on unipotent nearby cycles: [Nearby cycle and vanishing cycle](Notes/VC.pdf).
 
 ## Beamers
 
