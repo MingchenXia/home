@@ -11,7 +11,7 @@ Email: <mingchen@imj-prg.fr>
 
 Office: Jussieu 1516-504.
 
-I'm learning Berlinson's nearby cycle. Updated on January 25, 2023.
+I'm learning Beilinson's nearby cycle. Updated on January 25, 2023.
 
 ![I am a Pastafarian.](Pictures/FSM.jpg)
 
