@@ -11,7 +11,7 @@ Email: <mingchen@imj-prg.fr>
 
 Office: Jussieu 1516-504.
 
-I'm learning Beilinson's nearby cycle. Updated on January 25, 2023.
+I'm currently working on singular metrics on arithematic varieties. Updated on February 5, 2023.
 
 ![I am a Pastafarian.](Pictures/FSM.jpg)
 
@@ -120,6 +120,8 @@ All of my preprints can be found on arXiv. See [my Google Scholar page](https://
 ### Number theory
 
 - Non-pluripolar products on vector bundles and Chern--Weil formulae on mixed Shimura varieties. [arXiv:2210.15342](https://arxiv.org/abs/2210.15342)
+
+> In [this version](/Papers/CW.pdf), I removed the unnecessary recalling of the mixed Shimura varieties etc. I also include a conjecture (13.12) about the mixed volume of Okounkov bodies. I am still working on the arithmetic applications of the techniques developped in this paper. 
 
 ## Links for working mathematicians
 
