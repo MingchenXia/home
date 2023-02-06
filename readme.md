@@ -107,7 +107,7 @@ All of my preprints can be found on arXiv. See [my Google Scholar page](https://
 
 - Partial Okounkov bodies and Duistermaat--Heckman measures of non-Archimedean metrics. [arXiv:2112.04290](https://arxiv.org/abs/2112.04290)
 
-> [This](/Papers/POB.pdf) is a slightly better version than the arXiv version. Several typos are fixed, and one additional reference is added. There is a slight mistake in the arXiv version: <span style="color:red">In Section 4, the standing hypothesis should be that the classes are big instead of pseudo-effective.</span>
+> [This](/Papers/POB.pdf) is a better version than the arXiv version. Several typos are fixed, and several additional references are added. There are two mistakes in the arXiv version: 1. <span style="color:red"> In Section 4, the standing hypothesis should be that the classes are big instead of pseudo-effective. </span> 2. <span style="color:red"> In most parts of the paper, GLS(D) needs to be replaced by GLS(D)', where we require that the valuative semigroup generates the full lattice as well. The mistake was origninally in Theorem 3.13, where I forgot to consider the normalization of the volume measure in KK12.</span> These mistakes do not affect any of the results and are fixed in this version.
 
 > The Hausdorff convergence property is proved in full generality in my note [Hausdorff convergence properties of partial Okounkov bodies](Notes/HCP.pdf).
 
