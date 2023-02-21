@@ -121,7 +121,7 @@ All of my preprints can be found on arXiv. See [my Google Scholar page](https://
 
 - Non-pluripolar products on vector bundles and Chern--Weil formulae on mixed Shimura varieties. [arXiv:2210.15342](https://arxiv.org/abs/2210.15342)
 
-> In [this version](/Papers/CW.pdf), I removed the unnecessary recalling of the mixed Shimura varieties etc. I also include a conjecture (13.12) about the mixed volume of Okounkov bodies. I am still working on the arithmetic applications of the techniques developped in this paper. 
+> In [this version](/Papers/CW.pdf), I removed the unnecessary recalling of the mixed Shimura varieties etc. I also include a conjecture (13.12) about the mixed volume of Okounkov bodies. I am still working on the arithmetic applications of the techniques developped in this paper. <span style="color:red"> I corrected the definition of $I_k(h)$, which is wrong in the arXiv version. </span>
 
 ## Links for working mathematicians
 
