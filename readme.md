@@ -101,6 +101,8 @@ All of my preprints can be found on arXiv. See [my Google Scholar page](https://
 
 - Mabuchi geometry of big cohomology classes with prescribed singularities. [arXiv:1907.07234](https://arxiv.org/abs/1907.07234)
 
+> [This](/Papers/MG.pdf) is a much better version. I corrected a few mistakes. I will upload this version to arXiv when the paper is accepted.
+
 - The closures of test configurations and algebraic singularity types, (joint with Tamás Darvas), ***Advances in Mathematics***, (2022).  [arXiv:2003.04818](https://arxiv.org/abs/2003.04818) [Journal link](https://www.sciencedirect.com/science/article/pii/S0001870822000147)
 
 - The volume of pseudoeffective line bundles and partial equilibrium, (joint with Tamás Darvas). [arXiv:2112.03827](https://arxiv.org/abs/2112.03827)
@@ -110,6 +112,8 @@ All of my preprints can be found on arXiv. See [my Google Scholar page](https://
 > [This](/Papers/POB.pdf) is a better version than the arXiv version. Several typos are fixed, and several additional references are added. There are two mistakes in the arXiv version: 1. <span style="color:red"> In Section 4, the standing hypothesis should be that the classes are big instead of pseudo-effective. </span> 2. <span style="color:red"> In most parts of the paper, GLS(D) needs to be replaced by GLS(D)', where we require that the valuative semigroup generates the full lattice as well. The mistake was origninally in Theorem 3.13, where I forgot to consider the normalization of the volume measure in KK12.</span> These mistakes do not affect any of the results and are fixed in this version.
 
 > The Hausdorff convergence property is proved in full generality in my note [Hausdorff convergence properties of partial Okounkov bodies](Notes/HCP.pdf).
+
+- A transcendental approach to non-Archimedean metrics of pseudoeffective classes, (joint with Tamás Darvas and Kewei Zhang). [arXiv:2302.02541](https://arxiv.org/abs/2302.02541)
 
 ### Non-Archimedean geometry and algebraic geometry
 
