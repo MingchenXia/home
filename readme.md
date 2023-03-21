@@ -35,9 +35,9 @@ This is a collection of problems arising from my own research that may be of int
 
 > One of my unfinished projects. It contains a number of conjectures of interest.
 
-- [Pluripotential theory on complex analytic spaces](Notes/PTV.pdf)
+- Pluripotential theory on complex analytic spaces
 
-> This is not a research article. I simply want to provide a reference for my work in progress about pluripotential theory on polyhedral spaces.
+> This is integrated into the arXiv version of my paper on Mabuchi geometry. So I disabled the link.
 
 - [Note on $L^2$-methods in global pluripotential theory](Notes/MIS.pdf)
 
@@ -101,7 +101,7 @@ All of my preprints can be found on arXiv. See [my Google Scholar page](https://
 
 - Mabuchi geometry of big cohomology classes with prescribed singularities. [arXiv:1907.07234](https://arxiv.org/abs/1907.07234)
 
-> [This](/Papers/MG.pdf) is a much better version. I corrected a few mistakes. I will upload this version to arXiv when the paper is accepted.
+> The published version contains only the special case without prescribed singularities on K\"ahler manifolds. The method in the general case is exactly the same.
 
 - The closures of test configurations and algebraic singularity types, (joint with Tamás Darvas), ***Advances in Mathematics***, (2022).  [arXiv:2003.04818](https://arxiv.org/abs/2003.04818) [Journal link](https://www.sciencedirect.com/science/article/pii/S0001870822000147)
 
@@ -125,7 +125,7 @@ All of my preprints can be found on arXiv. See [my Google Scholar page](https://
 
 - Non-pluripolar products on vector bundles and Chern--Weil formulae on mixed Shimura varieties. [arXiv:2210.15342](https://arxiv.org/abs/2210.15342)
 
-> In [this version](/Papers/CW.pdf), I removed the unnecessary recalling of the mixed Shimura varieties and the third part in order not to distract the readers. They will appear elsewhere. I am still working on the arithmetic applications of the techniques developped in this paper. <span style="color:red"> I corrected the definition of $I_k(h)$, which is wrong in the arXiv version. The proof of 13.2 is not rigorous in the arXiv version, but the result is correct. I will put the correct proof in a forthcoming paper. </span>
+> The Okounkov body part is removed from v2 and will appear elsewhere. </span>
 
 ## Links for working mathematicians
 
