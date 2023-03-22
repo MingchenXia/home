@@ -125,7 +125,7 @@ All of my preprints can be found on arXiv. See [my Google Scholar page](https://
 
 - Non-pluripolar products on vector bundles and Chern--Weil formulae on mixed Shimura varieties. [arXiv:2210.15342](https://arxiv.org/abs/2210.15342)
 
-> The Okounkov body part is removed from v2 and will appear elsewhere. </span>
+> The Okounkov body part is removed from v2 and will appear elsewhere.
 
 ## Links for working mathematicians
 
@@ -143,9 +143,9 @@ All of my preprints can be found on arXiv. See [my Google Scholar page](https://
 
 ### Illegal links
 
-- [ZLibrary](https://b-ok.org)
+- [ZLibrary](https://zlib.app)
 
-> Taken down by the US government. R.I.P.
+> Back to life!
 
 - [Libgen](http://gen.lib.rus.ec)
 
