@@ -93,6 +93,8 @@ All of my preprints can be found on arXiv. See [my Google Scholar page](https://
 
 - Pluripotential-theoretic stability thresholds, ***IMRN***, (2022).  [arXiv:2012.12039](https://arxiv.org/abs/2012.12039) [Journal link](https://academic.oup.com/imrn/advance-article-abstract/doi/10.1093/imrn/rnac186/6644735)
 
+> In arXiv version 1, Section 8, I briefly explained the second order expansion of Donaldson's L-functionals, which might be of interest as well.
+
 ### Pluripotential theory
 
 - Integration by parts formula for non-pluripolar product.  [arXiv:1907.06359](https://arxiv.org/abs/1907.06359)
@@ -101,7 +103,7 @@ All of my preprints can be found on arXiv. See [my Google Scholar page](https://
 
 - Mabuchi geometry of big cohomology classes with prescribed singularities. [arXiv:1907.07234](https://arxiv.org/abs/1907.07234)
 
-> The published version contains only the special case without prescribed singularities on K\"ahler manifolds. The method in the general case is exactly the same.
+> The published version contains only the special case without prescribed singularities on Kähler manifolds. The method in the general case is exactly the same.
 
 - The closures of test configurations and algebraic singularity types, (joint with Tamás Darvas), ***Advances in Mathematics***, (2022).  [arXiv:2003.04818](https://arxiv.org/abs/2003.04818) [Journal link](https://www.sciencedirect.com/science/article/pii/S0001870822000147)
 
