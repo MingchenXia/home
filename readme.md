@@ -83,17 +83,21 @@ This is a collection of problems arising from my own research that may be of int
 
 ## Research
 
-> Errare humanum est.
+>Errare humanum est.
 
-All of my preprints can be found on arXiv. See [my Google Scholar page](https://scholar.google.se/citations?user=1GbYhEMAAAAJ) as well.
+All my preprints can be found on arXiv. See [my Google Scholar page](https://scholar.google.se/citations?user=1GbYhEMAAAAJ) as well.
 
 ### K-stability
 
 - On sharp lower bounds for Calabi type functionals and destabilizing properties of gradient flows, ***Analysis & PDE***, (2021).  [arXiv:1901.07889](https://arxiv.org/abs/1901.07889) [Journal link](https://msp.org/apde/2021/14-6/p12.xhtml)
 
+> My note [Radial Calabi flow](Notes/RCF.pdf) might be of interest to the readers of this paper.
+
 - Pluripotential-theoretic stability thresholds, ***IMRN***, (2022).  [arXiv:2012.12039](https://arxiv.org/abs/2012.12039) [Journal link](https://academic.oup.com/imrn/advance-article-abstract/doi/10.1093/imrn/rnac186/6644735)
 
 > In arXiv version 1, Section 8, I briefly explained the second order expansion of Donaldson's L-functionals, which might be of interest as well.
+
+> I'm always curious about Conjecture 9.2 in this paper (there is an obvious typo, L should be [\omega] instead): Is it true that a general geodesic ray (with respect to a transcendental class) of finite entropy is necessarily maximal (in the sense that the Legendre transform is always I-model)? Please contact me if you know how to prove/disprove it.
 
 ### Pluripotential theory
 
@@ -117,9 +121,13 @@ All of my preprints can be found on arXiv. See [my Google Scholar page](https://
 
 - A transcendental approach to non-Archimedean metrics of pseudoeffective classes, (joint with Tamás Darvas and Kewei Zhang). [arXiv:2302.02541](https://arxiv.org/abs/2302.02541)
 
+> The theory of non-Archimedean psh functions we developed in this paper trivally satisfies Boucksom--Jonsson's envelope conjecture (even on a general unibranch complex space). It is of interest to develop it in detail.
+
 ### Non-Archimedean geometry and algebraic geometry
 
 - On Liu morphisms in non-Archimedean geometry, ***Israel Journal of Mathematics, (2022)***. [arXiv:2106.08032](https://arxiv.org/abs/2106.08032) [Journal link](https://link.springer.com/article/10.1007/s11856-022-2456-6)
+
+> In the complex analytic setting, very similar arguments (using Fréchet algebras instead of Banach algebras) give the notion of Stein morphisms. It is of interest to see if these morphisms are useful.
 
 - Analytic Bertini theorem, ***Mathematische Zeitschrift***, (2022).  [arXiv:2110.14971](https://arxiv.org/abs/2110.14971) [Journal link](https://link.springer.com/article/10.1007/s00209-022-03103-7)
 
