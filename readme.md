@@ -13,7 +13,7 @@ Office: Jussieu 1516-504.
 
 I'm currently working on singular metrics on arithematic varieties. Updated on February 5, 2023.
 
-![I am a Pastafarian.](Pictures/FSM.jpg)
+![Pastafarian](Pictures/FSM.jpg) *I am a [Pastafarian](https://en.wikipedia.org/wiki/Flying_Spaghetti_Monster).*
 
 ## Some Problems
 
