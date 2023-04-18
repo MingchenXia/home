@@ -63,6 +63,10 @@ This is a collection of problems arising from my own research that may be of int
 
 - Notes on unipotent nearby cycles: [Nearby cycle and vanishing cycle](Notes/VC.pdf).
 
+- [Convergence of quasi-plurisubharmonic functions](Notes/dS.pdf)
+
+> A note about the d_S-topology on the space of qpsh functions. It contains a number of new results.
+
 ## Beamers
 
 - [Pluripotential-theoretic approach to radial energy functionals](Beamers/PTA.pdf)  Beijing university, 11/20/2020.
