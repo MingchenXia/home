@@ -109,7 +109,7 @@ All my preprints can be found on arXiv. See [my Google Scholar page](https://sch
 
 > This paper was the first proof of the integration by parts formula. However, a better approach was found later on by Lu, so this paper is no longer important. I don't intend to submit it.
 
-- Mabuchi geometry of big cohomology classes with prescribed singularities, ***Journal für die reine und angewandte Mathematik***, (2023). [arXiv:1907.07234](https://arxiv.org/abs/1907.07234)[Journal link](https://www.degruyter.com/document/doi/10.1515/crelle-2023-0019/html)
+- Mabuchi geometry of big cohomology classes with prescribed singularities, ***Journal für die reine und angewandte Mathematik***, (2023). [arXiv:1907.07234](https://arxiv.org/abs/1907.07234) [Journal link](https://www.degruyter.com/document/doi/10.1515/crelle-2023-0019/html)
 
 > The published version contains only the special case without prescribed singularities on Kähler manifolds. The method in the general case is exactly the same.
 
