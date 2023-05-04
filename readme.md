@@ -81,6 +81,10 @@ This is a collection of problems arising from my own research that may be of int
 
 - [Les singularités $\mathcal{I}$-bonnes --- L'intersection entre la théorie analytique et la théorie algébrique](Beamers/IBS.pdf) IMJ-PRG, 01/03/2023.
 
+- [A transcendental approach to non-Archimedean metrics](Beamers/TAnA.pdf) Göteborg, 04/05/2023.
+
+> This beamer mentions a few unpublished results. The corresponding (poorly written) note is available upon request.
+
 ## Ymir
 
 [Ymir](https://mingchenxia.github.io/Ymir/) is intended to be a Stacks Project for complex analytic spaces and non-Archimedean analytic spaces.
