@@ -63,9 +63,9 @@ This is a collection of problems arising from my own research that may be of int
 
 - Notes on unipotent nearby cycles: [Nearby cycle and vanishing cycle](Notes/VC.pdf).
 
-- [Convergence of quasi-plurisubharmonic functions](Notes/dS.pdf)
+- Convergence of quasi-plurisubharmonic functions
 
-> A note about the d_S-topology on the space of qpsh functions. It contains a number of new results.
+> A note about the d_S-topology on the space of qpsh functions. It contains a number of new results. I removed the link for the time being, it is still available upon request.
 
 ## Beamers
 
