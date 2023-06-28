@@ -115,6 +115,8 @@ All my preprints can be found on arXiv. See [my Google Scholar page](https://sch
 
 - Mabuchi geometry of big cohomology classes with prescribed singularities, ***Journal für die reine und angewandte Mathematik***, (2023). [arXiv:1907.07234](https://arxiv.org/abs/1907.07234) [Journal link](https://www.degruyter.com/document/doi/10.1515/crelle-2023-0019/html)
 
+>  There is a slight issue in the proof of Theorem 2.11 line 10: <span style="color:red"> $f^{\#}$ is only formally smooth, not smooth. </span> This does not affect anything in the proof. This is corrected in [this version](papers/MG.pdf).
+
 > The published version contains only the special case without prescribed singularities on Kähler manifolds. The method in the general case is exactly the same.
 
 - The closures of test configurations and algebraic singularity types, (joint with Tamás Darvas), ***Advances in Mathematics***, (2022).  [arXiv:2003.04818](https://arxiv.org/abs/2003.04818) [Journal link](https://www.sciencedirect.com/science/article/pii/S0001870822000147)
