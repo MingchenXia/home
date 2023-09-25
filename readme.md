@@ -69,7 +69,7 @@ This is a collection of problems arising from my own research that may be of int
 
 - [Operations on transcendental non-Archimedean metrics](Notes/OTNA.pdf)
 
-> This note is submitted to the proceeding for Bo Berndtsson's 70th birthday. It is a trivial continuition of my joint paper with Darvas and Zhang. The only notable result is Theorem 4.21.
+> This note is submitted to the proceeding for Bo Berndtsson's 70th birthday. It is a trivial continuation of my joint paper with Darvas and Zhang. The only notable result is Theorem 4.21.
 
 ## Beamers
 
@@ -135,7 +135,7 @@ All my preprints can be found on arXiv. See [my Google Scholar page](https://sch
 
 - A transcendental approach to non-Archimedean metrics of pseudoeffective classes, (joint with Tamás Darvas and Kewei Zhang). [arXiv:2302.02541](https://arxiv.org/abs/2302.02541)
 
-> The theory of non-Archimedean psh functions we developed in this paper trivally satisfies Boucksom--Jonsson's envelope conjecture (even on a general unibranch complex space). It is of interest to develop it in detail.
+> The theory of non-Archimedean psh functions we developed in this paper trivally satisfies Boucksom--Jonsson's envelope conjecture (even on a general unibranch complex space), see my note [Operations on transcendental non-Archimedean metrics](Notes/OTNA.pdf).
 
 - Non-pluripolar products on vector bundles and Chern--Weil formulae on mixed Shimura varieties. [arXiv:2210.15342](https://arxiv.org/abs/2210.15342)
 
