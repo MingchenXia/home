@@ -11,7 +11,7 @@ Email: <mingchen@imj-prg.fr>
 
 Office: Jussieu 1516-504.
 
-I'm currently working on singular metrics on arithematic varieties. Updated on February 5, 2023.
+I'm currently interested in complex dynamical systems. Updated on September 25, 2023.
 
 ![Pastafarian](Pictures/FSM.jpg) *I am a [Pastafarian](https://en.wikipedia.org/wiki/Flying_Spaghetti_Monster).*
 
@@ -67,6 +67,10 @@ This is a collection of problems arising from my own research that may be of int
 
 > A note about the d_S-topology on the space of qpsh functions. It contains a number of new results. I removed the link for the time being, it is still available upon request.
 
+- [Operations on transcendental non-Archimedean metrics](Notes/OTNA.pdf)
+
+> This note is submitted to the proceeding for Bo Berndtsson's 70th birthday. It is a trivial continuition of my joint paper with Darvas and Zhang. The only notable result is Theorem 4.21.
+
 ## Beamers
 
 - [Pluripotential-theoretic approach to radial energy functionals](Beamers/PTA.pdf)  Beijing university, 11/20/2020.
@@ -81,7 +85,7 @@ This is a collection of problems arising from my own research that may be of int
 
 - [Les singularités $\mathcal{I}$-bonnes --- L'intersection entre la théorie analytique et la théorie algébrique](Beamers/IBS.pdf) IMJ-PRG, 01/03/2023.
 
-- [A transcendental approach to non-Archimedean metrics](Beamers/TAnA.pdf) Göteborg, 04/05/2023.
+- [A transcendental approach to non-Archimedean metrics](Beamers/TAnA.pdf) Göteborg, 05/04/2023.
 
 > This beamer mentions a few unpublished results. The corresponding (poorly written) note is available upon request.
 
@@ -133,6 +137,14 @@ All my preprints can be found on arXiv. See [my Google Scholar page](https://sch
 
 > The theory of non-Archimedean psh functions we developed in this paper trivally satisfies Boucksom--Jonsson's envelope conjecture (even on a general unibranch complex space). It is of interest to develop it in detail.
 
+- Non-pluripolar products on vector bundles and Chern--Weil formulae on mixed Shimura varieties. [arXiv:2210.15342](https://arxiv.org/abs/2210.15342)
+
+> The Okounkov body part is removed from v2 and will appear elsewhere.
+
+
+- Transcendental Okounkov bodies, (joint with Tamás Darvas, Rémi Reboulet, David Witt Nyström and Kewei Zhang). [arXiv:2309.07584](https://arxiv.org/abs/2309.07584)
+
+
 ### Non-Archimedean geometry and algebraic geometry
 
 - On Liu morphisms in non-Archimedean geometry, ***Israel Journal of Mathematics, (2022)***. [arXiv:2106.08032](https://arxiv.org/abs/2106.08032) [Journal link](https://link.springer.com/article/10.1007/s11856-022-2456-6)
@@ -141,11 +153,7 @@ All my preprints can be found on arXiv. See [my Google Scholar page](https://sch
 
 - Analytic Bertini theorem, ***Mathematische Zeitschrift***, (2022).  [arXiv:2110.14971](https://arxiv.org/abs/2110.14971) [Journal link](https://link.springer.com/article/10.1007/s00209-022-03103-7)
 
-### Number theory
 
-- Non-pluripolar products on vector bundles and Chern--Weil formulae on mixed Shimura varieties. [arXiv:2210.15342](https://arxiv.org/abs/2210.15342)
-
-> The Okounkov body part is removed from v2 and will appear elsewhere.
 
 ## Links for working mathematicians
 
