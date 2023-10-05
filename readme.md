@@ -89,6 +89,8 @@ This is a collection of problems arising from my own research that may be of int
 
 > This beamer mentions a few unpublished results. The corresponding (poorly written) note is available upon request.
 
+- [Transcendental Okounkov bodies and the trace operator of currents](Beamers/TOB.pdf) Toulouse, 05/10/2023.
+
 ## Ymir
 
 [Ymir](https://mingchenxia.github.io/Ymir/) is intended to be a Stacks Project for complex analytic spaces and non-Archimedean analytic spaces.
