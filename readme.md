@@ -173,7 +173,7 @@ All my preprints can be found on arXiv. See [my Google Scholar page](https://sch
 
 ### Illegal links
 
-- [ZLibrary](https://zlib.app)
+- [ZLibrary](https://zlibrary-fr.se)
 
 > Back to life!
 
