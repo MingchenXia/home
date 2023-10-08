@@ -11,7 +11,7 @@ Email: <mingchen@imj-prg.fr>
 
 Office: Jussieu 1516-504.
 
-I'm currently interested in complex dynamical systems. Updated on September 25, 2023.
+I'm currently interested in complex dynamical systems and the Japanese language. Updated on October 8, 2023.
 
 ![Pastafarian](Pictures/FSM.jpg) *I am a [Pastafarian](https://en.wikipedia.org/wiki/Flying_Spaghetti_Monster).*
 
@@ -73,7 +73,7 @@ This is a collection of problems arising from my own research that may be of int
 
 ## Beamers
 
-- [Pluripotential-theoretic approach to radial energy functionals](Beamers/PTA.pdf)  Beijing university, 11/20/2020.
+- [Pluripotential-theoretic approach to radial energy functionals](Beamers/PTA.pdf)  Beijing university, 11/20/2020 (mm/dd/yyyy).
 
 - [Analytic Bertini theorem](Beamers/ABT.pdf) Oslo SCV conference, 12/18/2021.
 
@@ -89,7 +89,7 @@ This is a collection of problems arising from my own research that may be of int
 
 > This beamer mentions a few unpublished results. The corresponding (poorly written) note is available upon request.
 
-- [Transcendental Okounkov bodies and the trace operator of currents](Beamers/TOB.pdf) Toulouse, 05/10/2023.
+- [Transcendental Okounkov bodies and the trace operator of currents](Beamers/TOB.pdf) Toulouse, 10/05/2023.
 
 ## Ymir
 
