@@ -13,7 +13,7 @@ Office: Jussieu 1516-504.
 
 Due to the difficulty in obtaining a legal french residence permit, traveling across the french border will be very difficult next year. <span style="color:red"> I will not accept any offline talk/conference/workshop invitation in 2024 (apart from those that I already accepted). </span>
 
-I'm currently interested in complex dynamical systems and the Japanese language. Updated on October 8, 2023.
+I'm currently interested in Hodge modules and the Japanese language. Updated on November 23, 2023.
 
 ![Pastafarian](Pictures/FSM.jpg) *I am a [Pastafarian](https://en.wikipedia.org/wiki/Flying_Spaghetti_Monster).*
 
