@@ -173,9 +173,9 @@ All my preprints can be found on arXiv. See [my Google Scholar page](https://sch
 
 ### Illegal links
 
-- [ZLibrary](https://zlibrary-fr.se)
+- [ZLibrary](https://singlelogin.se)
 
-> Back to life!
+> Latest link.
 
 - [Libgen](http://gen.lib.rus.ec)
 
