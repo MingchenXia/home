@@ -93,6 +93,8 @@ This is a collection of problems arising from my own research that may be of int
 
 - [Transcendental Okounkov bodies and the trace operator of currents](Beamers/TOB.pdf) Toulouse, 10/05/2023.
 
+- [Singularities in global pluripotential theory](Beamers/SGPT.pdf) Kanazawa, 06/12/2023.
+
 ## Ymir
 
 [Ymir](https://mingchenxia.github.io/Ymir/) is intended to be a Stacks Project for complex analytic spaces and non-Archimedean analytic spaces.
