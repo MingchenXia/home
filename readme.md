@@ -29,6 +29,8 @@ This is a collection of problems arising from my own research that may be of int
 
 ## Notes
 
+- [LaTeX tips for working mathematicians](Notes/LaTeX tips.pdf)
+
 - [Relative pluripotential theory](Notes/RPT.pdf) (Chapter I to Chapter III)
 
 > Just a preliminary version with potentially many mistakes. I'm slowly adding new materials.
