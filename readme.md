@@ -11,7 +11,7 @@ Email: <mingchen@imj-prg.fr>
 
 Office: Jussieu 1516-504.
 
-Due to the difficulty in obtaining a legal french residence permit, traveling across the french border will be very difficult next year. <span style="color:red"> I will not accept any offline talk/conference/workshop invitation in 2024 (apart from those that I already accepted). </span>
+Thanks to the french efficiency, I am an illegal immigrant in France now. <span style="color:red"> I will not be able to accept any offline talk/conference/workshop invitation in 2024. </span> 
 
 I'm currently interested in Hodge modules and the Japanese language. Updated on November 23, 2023.
 
