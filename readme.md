@@ -141,7 +141,7 @@ All my preprints can be found on arXiv. See [my Google Scholar page](https://sch
 
 - Non-pluripolar products on vector bundles and Chern--Weil formulae on mixed Shimura varieties. [arXiv:2210.15342](https://arxiv.org/abs/2210.15342)
 
-> The Okounkov body part is removed from v2 and will appear elsewhere.
+> > [This](/Papers/CW.pdf) is the revised version. A few minor mistakes are corrected.  
 
 - Transcendental Okounkov bodies, (joint with Tamás Darvas, Rémi Reboulet, David Witt Nyström and Kewei Zhang). [arXiv:2309.07584](https://arxiv.org/abs/2309.07584)
 
