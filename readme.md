@@ -7,7 +7,7 @@ I obtained my PhD in [Chalmers Tekniska Högskola](https://www.chalmers.se/sv/Si
 
 My name in Chinese: 夏铭辰(Simplified)/夏銘辰(Traditional)
 
-Email: <mingchen@imj-prg.fr>
+Email: <xiamingchen2008@gmail.com>
 
 Office: Jussieu 1516-504.
 
