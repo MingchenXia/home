@@ -137,8 +137,6 @@ All my preprints can be found on arXiv. See [my Google Scholar page](https://sch
 
 > [This](/Papers/POB.pdf) is a better version than the arXiv version. I will upload this version to arXiv very shortly.
 
-> The Hausdorff convergence property is proved in full generality in my note [Hausdorff convergence properties of partial Okounkov bodies](Notes/HCP.pdf).
-
 - Non-pluripolar products on vector bundles and Chern--Weil formulae on mixed Shimura varieties. [arXiv:2210.15342](https://arxiv.org/abs/2210.15342)
 
 > [This](/Papers/CW.pdf) is the revised version. A few minor mistakes are corrected.  
