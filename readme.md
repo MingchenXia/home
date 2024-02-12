@@ -77,7 +77,7 @@ This is a collection of problems arising from my own research that may be of int
 
 - [Note on Duistermaat--Heckman measures of non-Archimedean metrics](Notes/DHM.pdf).
 
-> In this note, I construct the Duistermaat--Heckman measures using the theory of partial Okounkov bodies. In the most general case, it is not clear to me if the Duistermaat--Heckman measures are independent of the choice of the flag.
+> In this note, I construct the Duistermaat--Heckman measures using the theory of partial Okounkov bodies.
 
 
 ## Beamers
