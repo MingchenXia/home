@@ -11,8 +11,6 @@ Email: <xiamingchen2008@gmail.com>
 
 Office: Jussieu 1516-504.
 
-Thanks to the french efficiency, I am an illegal immigrant in France now. <span style="color:red"> I will not be able to accept any offline talk/conference/workshop invitation in 2024. </span> 
-
 I'm currently interested in Hodge modules and the Japanese language. Updated on November 23, 2023.
 
 ![Pastafarian](Pictures/FSM.jpg) *I am a [Pastafarian](https://en.wikipedia.org/wiki/Flying_Spaghetti_Monster).*
