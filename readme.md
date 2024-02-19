@@ -77,9 +77,7 @@ This is a collection of problems arising from my own research that may be of int
 
 > In this note, I construct the Duistermaat--Heckman measures using the theory of partial Okounkov bodies.
 
-- [Note on partial Okounkov bodies --- The point of view of b-divisors](Notes/POBb.pdf).
 
-> In this note, I prove that the partial Okounkov bodies admit a natural interpretation in terms of b-divisors.
 
 
 ## Beamers
