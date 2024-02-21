@@ -53,17 +53,11 @@ This is a collection of problems arising from my own research that may be of int
 
 > I'm organizing a seminar about Ash--Mumford--Rapoport--Tai. I will try to write more notes in the near future.
 
-- Notes on Katz--Mazur [I](Notes/KM1.pdf).
-
-> My personal notes on Katz--Mazur. I want to refomulate everything in the language of stacks.
-
 - [Hausdorff convergence properties of partial Okounkov bodies](Notes/HCP.pdf).
 
 > I fully answered the conjecture about partial Okounkov boides in my paper. I haven't decided yet if this should be written as a paper or a note.
 
 - Notes on Hodge theory: [Carlson's correspondence](Notes/Hodge1.pdf).
-
-- Notes on unipotent nearby cycles: [Nearby cycle and vanishing cycle](Notes/VC.pdf).
 
 - Convergence of quasi-plurisubharmonic functions
 
