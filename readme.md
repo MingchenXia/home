@@ -27,6 +27,8 @@ This is a collection of problems arising from my own research that may be of int
 
 ## Notes
 
+The lecture notes for courses can be found on [a separate page](lecture_notes.md).
+
 - [LaTeX tips for working mathematicians](Notes/LaTeX_tips.pdf)
 
 - [Relative pluripotential theory](Notes/RPT.pdf) (Chapter I to Chapter III)
