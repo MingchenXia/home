@@ -4,7 +4,7 @@ This page is a collection of lecture notes of Mingchen Xia. You may reproduce wh
 
 ## Archimedean pluripotential theory
 
-- [Lectures on pluripotential theory]
+- Lectures on pluripotential theory [1](Lectures/ShanghaiTech1.pdf), [2](Lectures/ShanghaiTech2.pdf), [3](Lectures/ShanghaiTech3.pdf), [4](Lectures/ShanghaiTech4.pdf).
 
 > Lecture notes for my course at Shanghai Tech university in the summer of 2023.
 
