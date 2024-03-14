@@ -65,9 +65,9 @@ The lecture notes for courses can be found on [a separate page](lecture_notes.md
 
 > A note about the d_S-topology on the space of qpsh functions. It contains a number of new results. I removed the link for the time being, it is still available upon request.
 
-- [Operations on transcendental non-Archimedean metrics](Notes/OTNA.pdf). [arXiv:2312.17150](https://arxiv.org/abs/2312.17150)
+- Operations on transcendental non-Archimedean metrics. [arXiv:2312.17150](https://arxiv.org/abs/2312.17150)
 
-> This note is submitted to the proceeding for Bo Berndtsson's 70th birthday. It is a trivial continuation of my joint paper with Darvas and Zhang. The only notable result is Theorem 4.21. This is slightly different from the arXiv version. A few typos are corrected. <span style="color:red"> A minor mistake in Section 4 is corrected. </span> I will upload the revision to arXiv later on.
+> This note is submitted to the proceeding for Bo Berndtsson's 70th birthday. It is a trivial continuation of my joint paper with Darvas and Zhang. The only notable result is Theorem 4.21. 
 
 - [Note on Duistermaat--Heckman measures of non-Archimedean metrics](Notes/DHM.pdf).
 
@@ -144,6 +144,9 @@ All my preprints can be found on arXiv. See [my Google Scholar page](https://sch
 
 - Transcendental Okounkov bodies, (joint with Tamás Darvas, Rémi Reboulet, David Witt Nyström and Kewei Zhang). [arXiv:2309.07584](https://arxiv.org/abs/2309.07584)
 
+- The trace operator of quasi-plurisubharmonic functions on compact Kähler manifolds, (joint with Tamás Darvas). [arXiv:2403.08259](https://arxiv.org/abs/2403.08259)
+
+> A different point of view to the trace operator will be presented in my lecture notes at Zhejiang university.
 
 ### Non-Archimedean geometry and algebraic geometry
 
