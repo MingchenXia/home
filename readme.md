@@ -96,7 +96,7 @@ The lecture notes for courses can be found on [a separate page](lecture_notes.md
 
 - [Transcendental Okounkov bodies and the trace operator of currents](Beamers/TOB.pdf) Toulouse, 10/05/2023.
 
-- [Singularities in global pluripotential theory](Beamers/SGPT.pdf) Kanazawa, 06/12/2023.
+- [Singularities in global pluripotential theory](Beamers/SGPT.pdf) Kanazawa, 12/06/2023.
 
 ## Ymir
 
