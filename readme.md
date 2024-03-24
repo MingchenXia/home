@@ -11,7 +11,7 @@ Email: <xiamingchen2008@gmail.com>
 
 Office: Jussieu 1516-504.
 
-I'm currently interested in Hodge modules and the Japanese language. Updated on November 23, 2023.
+I'm currently interested in Thuillier's thesis and the Japanese language. Updated on March 24, 2024.
 
 ![Pastafarian](Pictures/FSM.jpg) *I am a [Pastafarian](https://en.wikipedia.org/wiki/Flying_Spaghetti_Monster).*
 
