@@ -14,7 +14,9 @@ This page is a collection of lecture notes of [Mingchen Xia](readme.md). You may
 
 - Singularities in global pluripotential theory.
 
-> Lecture notes for my course at Zhejiang university in the spring of 2024. I am trying to expand the lecture notes into a book. The draft is available upon request.
+> Lecture notes for my course at Zhejiang university in the spring of 2024. [Singularities in global pluripotential theory](Lectures/SGPT.pdf).
+
+- This is a preliminary version containing possibly many typos. I will try to make updates at least once a month. Feel free to contact me if you have any comments. 
 
 ## Non-Archimedean geometry
 
