@@ -118,8 +118,6 @@ All my preprints can be found on arXiv. See [my Google Scholar page](https://sch
 
 > In arXiv version 1, Section 8, I briefly explained the second order expansion of Donaldson's L-functionals, which might be of interest as well.
 
-> I'm always curious about Conjecture 9.2 in this paper (there is an obvious typo, L should be [\omega] instead): Is it true that a general geodesic ray (with respect to a transcendental class) of finite entropy is necessarily maximal (in the sense that the Legendre transform is always I-model)? Please contact me if you know how to prove/disprove it.
-
 ### Pluripotential theory
 
 - Integration by parts formula for non-pluripolar product.  [arXiv:1907.06359](https://arxiv.org/abs/1907.06359)
