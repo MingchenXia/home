@@ -57,13 +57,13 @@ The lecture notes for courses can be found on [a separate page](lecture_notes.md
 
 - [Hausdorff convergence properties of partial Okounkov bodies](Notes/HCP.pdf).
 
-> I fully answered the conjecture about partial Okounkov boides in my paper. I haven't decided yet if this should be written as a paper or a note.
+> This note has been integrated into the final version of the partial Okounkov body paper.
 
 - Notes on Hodge theory: [Carlson's correspondence](Notes/Hodge1.pdf).
 
 - Convergence of quasi-plurisubharmonic functions
 
-> A note about the d_S-topology on the space of qpsh functions. It contains a number of new results. I removed the link for the time being, it is still available upon request.
+> A note about the d_S-topology on the space of qpsh functions. It contains a number of new results. I removed the link for the time being. It has been integrated into my lecture notes at Zhejiang university.
 
 - Operations on transcendental non-Archimedean metrics. [arXiv:2312.17150](https://arxiv.org/abs/2312.17150)
 
@@ -138,15 +138,13 @@ All my preprints can be found on arXiv. See [my Google Scholar page](https://sch
 
 - Partial Okounkov bodies and Duistermaat--Heckman measures of non-Archimedean metrics. [arXiv:2112.04290](https://arxiv.org/abs/2112.04290)
 
-> [This](/Papers/POB.pdf) is a better version than the arXiv version. I will upload this version to arXiv very shortly.
-
-- Non-pluripolar products on vector bundles and Chern--Weil formulae. [arXiv:2210.15342](https://arxiv.org/abs/2210.15342)
+- Non-pluripolar products on vector bundles and Chern--Weil formulae, ***Mathematische Annalen***, (2024). [arXiv:2210.15342](https://arxiv.org/abs/2210.15342) [Journal link](https://link.springer.com/article/10.1007/s00208-024-02838-4)
 
 - Transcendental Okounkov bodies, (joint with Tamás Darvas, Rémi Reboulet, David Witt Nyström and Kewei Zhang). [arXiv:2309.07584](https://arxiv.org/abs/2309.07584)
 
 - The trace operator of quasi-plurisubharmonic functions on compact Kähler manifolds, (joint with Tamás Darvas). [arXiv:2403.08259](https://arxiv.org/abs/2403.08259)
 
-> A different point of view to the trace operator will be presented in my lecture notes at Zhejiang university.
+> A different point of view to the trace operator can be found in my lecture notes at Zhejiang university.
 
 ### Non-Archimedean geometry and algebraic geometry
 
