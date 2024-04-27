@@ -3,7 +3,7 @@
 ## About Me
 
 I am now a post-doc at [IMJ-PRG](https://www.imj-prg.fr). My mentor is [Sébastien Boucksom](http://sebastien.boucksom.perso.math.cnrs.fr).
-I obtained my PhD in [Chalmers Tekniska Högskola](https://www.chalmers.se/sv/Sidor/default.aspx) in Sweden under the supervision of Robert Berman.
+I obtained my PhD degree in [Chalmers Tekniska Högskola](https://www.chalmers.se/sv/Sidor/default.aspx) in Sweden under the supervision of Robert Berman.
 
 My name in Chinese: 夏铭辰(Simplified)/夏銘辰(Traditional)
 
