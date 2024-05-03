@@ -152,6 +152,8 @@ All my preprints can be found on arXiv. See [my Google Scholar page](https://sch
 
 - Analytic Bertini theorem, ***Mathematische Zeitschrift***, (2022).  [arXiv:2110.14971](https://arxiv.org/abs/2110.14971) [Journal link](https://link.springer.com/article/10.1007/s00209-022-03103-7)
 
+>  There is minor gap in the proof: <span style="color:red"> In the first step, one needs to further enlarge $\Sigma_1$ to make sure that the restriction ideal coincides with the pull-back as coherent sheaves.</span> A corrected proof is presented in my lecture notes at Zhejiang University. 
+
 - A transcendental approach to non-Archimedean metrics of pseudoeffective classes, (joint with Tamás Darvas and Kewei Zhang). [arXiv:2302.02541](https://arxiv.org/abs/2302.02541)
 
 > The theory of non-Archimedean psh functions we developed in this paper trivally satisfies Boucksom--Jonsson's envelope conjecture (even on a general unibranch complex space), see my note [Operations on transcendental non-Archimedean metrics](Notes/OTNA.pdf).
