@@ -142,7 +142,7 @@ All my preprints can be found on arXiv. See [my Google Scholar page](https://sch
 
 - The trace operator of quasi-plurisubharmonic functions on compact Kähler manifolds, (joint with Tamás Darvas). [arXiv:2403.08259](https://arxiv.org/abs/2403.08259)
 
-> A different point of view to the trace operator can be found in my lecture notes at Zhejiang university.
+> A different point of view to the trace operator can be found in my lecture notes at Zhejiang university. Given the strong analogy with the usual trace opeartor, it is natural to ask if one could solve the Dirichlet problem for our trace operators: Is it possible to extend (in the sense of trace operators, up to I-equivalence) any Kähler current within a given big cohomology class?
 
 ### Non-Archimedean geometry and algebraic geometry
 
