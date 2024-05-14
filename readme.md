@@ -9,7 +9,7 @@ My name in Chinese: 夏铭辰(Simplified)/夏銘辰(Traditional)
 
 Email: <xiamingchen2008@gmail.com>
 
-Office: Jussieu 1516-504 (My de facto office is (usually) Table 89 in Bibliothèque universitaire des sciences et techniques in Talence).
+Office: Jussieu 1516-504
 
 I'm currently interested in Thuillier's thesis and the Japanese language. Updated on March 24, 2024.
 
