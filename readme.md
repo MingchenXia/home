@@ -98,6 +98,8 @@ The lecture notes for courses can be found on [a separate page](lecture_notes.md
 
 - [Singularities in global pluripotential theory](Beamers/SGPT.pdf) Kanazawa, 12/06/2023.
 
+- [Partial Okounkov bodies and toric geometry](Beamers/POB.pdf) Cambridge, 05/17/2024.
+
 ## Ymir
 
 [Ymir](https://mingchenxia.github.io/Ymir/) is intended to be a Stacks Project for complex analytic spaces and non-Archimedean analytic spaces.
