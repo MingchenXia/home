@@ -77,6 +77,9 @@ The lecture notes for courses can be found on [a separate page](lecture_notes.md
 
 > In this note, I prove that the partial Okounkov bodies admit a natural interpretation in terms of b-divisors.
 
+- [Note on the trace operator](Notes/TO.pdf).
+
+> In this note, I give an example illustrating the idea that the trace operator could be used to improve known inequalities in the literature.
 
 ## Beamers
 
