@@ -137,7 +137,7 @@ All my preprints can be found on arXiv. See [my Google Scholar page](https://sch
 
 - The closures of test configurations and algebraic singularity types, (joint with Tamás Darvas), ***Advances in Mathematics***, (2022).  [arXiv:2003.04818](https://arxiv.org/abs/2003.04818) [Journal link](https://www.sciencedirect.com/science/article/pii/S0001870822000147)
 
-- The volume of pseudoeffective line bundles and partial equilibrium, (joint with Tamás Darvas). [arXiv:2112.03827](https://arxiv.org/abs/2112.03827)
+- The volume of pseudoeffective line bundles and partial equilibrium, (joint with Tamás Darvas), ***Geometry & Topology***, (2024). [arXiv:2112.03827](https://arxiv.org/abs/2112.03827) [Journal link](https://msp.org/gt/2024/28-4/p09.xhtml)
 
 - Partial Okounkov bodies and Duistermaat--Heckman measures of non-Archimedean metrics. [arXiv:2112.04290](https://arxiv.org/abs/2112.04290)
 
