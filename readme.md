@@ -132,6 +132,7 @@ All my preprints can be found on arXiv. See [my Google Scholar page](https://sch
 - Mabuchi geometry of big cohomology classes with prescribed singularities, ***Journal für die reine und angewandte Mathematik***, (2023). [arXiv:1907.07234](https://arxiv.org/abs/1907.07234) [Journal link](https://www.degruyter.com/document/doi/10.1515/crelle-2023-0019/html)
 
 >  There is a slight issue in the proof of Theorem 2.11 line 10: <span style="color:red"> $f^{\#}$ is only formally smooth, not smooth. </span> This does not affect anything in the proof. This is corrected in [this version](Papers/MG.pdf).
+
 > As pointed out by Vasanth Pidaparthy and Prakhar Gupta, the statement of Proposition 4.12(ii) (Proposition 6.12(ii) in the arXiv version) is wrong in the generality as stated there, <span style="color:red"> one needs to assume that $\varphi_0\leq \gamma\leq \varphi_1$ in addition</span>. This mistake does not affect the other parts of the paper.
 
 > The published version contains only the special case without prescribed singularities on Kähler manifolds. The method in the general case is exactly the same.
