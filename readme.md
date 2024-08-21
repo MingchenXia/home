@@ -2,16 +2,18 @@
 
 ## About Me
 
-I am now a post-doc at [IMJ-PRG](https://www.imj-prg.fr). My mentor is [Sébastien Boucksom](http://sebastien.boucksom.perso.math.cnrs.fr).
+I am (essentially) unemployed for the time being. 
+
+Previously, I was a post-doc at [IMJ-PRG](https://www.imj-prg.fr). My mentor was [Sébastien Boucksom](http://sebastien.boucksom.perso.math.cnrs.fr).
 I obtained my PhD degree in [Chalmers Tekniska Högskola](https://www.chalmers.se/sv/Sidor/default.aspx) in Sweden under the supervision of Robert Berman.
 
 My name in Chinese: 夏铭辰(Simplified)/夏銘辰(Traditional)
 
 Email: <xiamingchen2008@gmail.com> (The IMJ email address is still in use, but will expire soon.)
 
-Office: Jussieu 1516-504
+Office: None.
 
-I'm currently interested in Thuillier's thesis and the Japanese language. Updated on March 24, 2024.
+I'm currently interested in the reverse Andreotti--Grauert theorems and Swedish. Updated on Aug 21, 2024.
 
 ![Pastafarian](Pictures/FSM.jpg) *I am a [Pastafarian](https://en.wikipedia.org/wiki/Flying_Spaghetti_Monster).*
 
