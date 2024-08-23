@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am (essentially) unemployed for the time being. 
+I am (virtually) unemployed for the time being. 
 
 Previously, I was a post-doc at [IMJ-PRG](https://www.imj-prg.fr). My mentor was [Sébastien Boucksom](http://sebastien.boucksom.perso.math.cnrs.fr).
 I obtained my PhD degree at [Chalmers Tekniska Högskola](https://www.chalmers.se/sv/Sidor/default.aspx) in Sweden under the supervision of Robert Berman.
