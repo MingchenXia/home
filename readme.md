@@ -167,9 +167,11 @@ All my preprints can be found on arXiv. See [my Google Scholar page](https://sch
 
 > The theory of non-Archimedean psh functions we developed in this paper trivally satisfies Boucksom--Jonsson's envelope conjecture (even on a general unibranch complex space), see my note [Operations on transcendental non-Archimedean metrics](Notes/OTNA.pdf).
 
-## Links for working mathematicians
+## My favourite links
 
 ### Legal links
+
+- [The Canonical List of French Jokes](https://www.strategypage.com/humor/articles/military_humor_complete_list_of_french_jokes.asp)
 
 - [Online math seminars](https://researchseminars.org)
 
