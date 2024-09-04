@@ -171,8 +171,6 @@ All my preprints can be found on arXiv. See [my Google Scholar page](https://sch
 
 ### Legal links
 
-- [The Canonical List of French Jokes](https://www.strategypage.com/humor/articles/military_humor_complete_list_of_french_jokes.asp)
-
 - [Online math seminars](https://researchseminars.org)
 
 - [Tikz-cd editor](https://tikzcd.yichuanshen.de)
