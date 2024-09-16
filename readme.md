@@ -11,8 +11,6 @@ My name in Chinese: 夏铭辰(Simplified)/夏銘辰(Traditional)
 
 Email: <xiamingchen2008@gmail.com> (The IMJ email address is still in use, but will expire soon.)
 
-Office: None.
-
 I'm currently interested in the reverse Andreotti--Grauert theorems and Swedish. Updated on Aug 21, 2024.
 
 ![Pastafarian](Pictures/FSM.jpg) *I am a [Pastafarian](https://en.wikipedia.org/wiki/Flying_Spaghetti_Monster).*
