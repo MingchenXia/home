@@ -9,7 +9,7 @@ I obtained my PhD degree at [Chalmers Tekniska Högskola](https://www.chalmers.s
 
 My name in Chinese: 夏铭辰(Simplified)/夏銘辰(Traditional)
 
-Email: <xiamingchen2008@gmail.com> (The IMJ email address is still in use, but will expire soon.)
+Email: <xiamingchen2008@gmail.com> (I no longer check the IMJ email address everyday.)
 
 I'm currently interested in the reverse Andreotti--Grauert theorems and Swedish. Updated on Aug 21, 2024.
 
