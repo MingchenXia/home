@@ -39,10 +39,6 @@ The lecture notes for courses can be found on [a separate page](lecture_notes.md
 
 > One of my unfinished projects. It contains a number of conjectures of interest.
 
-- Pluripotential theory on complex analytic spaces
-
-> This is integrated into the arXiv version of my paper on Mabuchi geometry. So I disabled the link.
-
 - [Note on $L^2$-methods in global pluripotential theory](Notes/MIS.pdf)
 
 > My personal notes when learning the $L^2$ methods, I plan to include more details in the future. This note contains an example of a reverse Bertini theorem, which seems to be new.
@@ -53,31 +49,13 @@ The lecture notes for courses can be found on [a separate page](lecture_notes.md
 
 - Notes on the toroidal compactifications of Shimura varieties: [I](Notes/SV1.pdf), [II](Notes/SV2.pdf), [III](Notes/SV3.pdf), [X](Notes/SV10.pdf), [XIII](Notes/SV13.pdf).
 
-> I'm organizing a seminar about Ash--Mumford--Rapoport--Tai. I will try to write more notes in the near future.
-
-- [Hausdorff convergence properties of partial Okounkov bodies](Notes/HCP.pdf).
-
-> This note has been integrated into the final version of the partial Okounkov body paper.
-
 - Notes on Hodge theory: [Carlson's correspondence](Notes/Hodge1.pdf).
-
-- Convergence of quasi-plurisubharmonic functions
-
-> A note about the d_S-topology on the space of qpsh functions. It contains a number of new results. I removed the link for the time being. It has been integrated into my lecture notes at Zhejiang university.
 
 - Operations on transcendental non-Archimedean metrics. [arXiv:2312.17150](https://arxiv.org/abs/2312.17150)
 
 > This note is submitted to the proceeding for Bo Berndtsson's 70th birthday. It is a trivial continuation of my joint paper with Darvas and Zhang. The only notable result is Theorem 4.21. 
 
 - [Note on Duistermaat--Heckman measures of non-Archimedean metrics](Notes/DHM.pdf).
-
-> In this note, I construct the Duistermaat--Heckman measures using the theory of partial Okounkov bodies.
-
-- [Note on partial Okounkov bodies --- The point of view of b-divisors](Notes/POBb.pdf).
-
-> In this note, I prove that the partial Okounkov bodies admit a natural interpretation in terms of b-divisors.
-
-- [Note on the trace operator](Notes/TO.pdf).
 
 > In this note, I give an example illustrating the idea that the trace operator could systematically improve known inequalities in the literature.
 
