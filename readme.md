@@ -13,7 +13,7 @@ Email: <xiamingchen2008@gmail.com> (I no longer check the IMJ email address ever
 
 I'm currently interested in the reverse Andreotti--Grauert theorems and Swedish. Updated on Aug 21, 2024.
 
-![Pastafarian](Pictures/FSM.jpg) *I am a [Pastafarian](https://en.wikipedia.org/wiki/Flying_Spaghetti_Monster).*
+![Pastafarian](Pictures/FSM.jpg) *I am [Pastafarian](https://en.wikipedia.org/wiki/Flying_Spaghetti_Monster).*
 
 ## Some Problems
 
