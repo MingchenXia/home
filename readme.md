@@ -15,7 +15,7 @@ Tags: [Pastafarianism](https://en.wikipedia.org/wiki/Flying_Spaghetti_Monster), 
 
 I'm currently interested in the reverse Andreotti--Grauert theorems and Swedish. Updated on Aug 21, 2024.
 
-![ETH](Pictures/ETH.PNG) *I'm strongly against [the recent policy of ETH](https://www.reddit.com/r/ethz/comments/1gc2y1n/comment/ltqoboh/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) against Chinese and Russian citizens.*
+![ETH](Pictures/ETH.jpg) *I'm strongly against [the recent policy of ETH](https://www.reddit.com/r/ethz/comments/1gc2y1n/comment/ltqoboh/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) against Chinese and Russian citizens.*
 
 
 ## Some Problems
