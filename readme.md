@@ -9,7 +9,7 @@ I obtained my PhD degree at [Chalmers Tekniska Högskola](https://www.chalmers.s
 
 My name in Chinese: 夏铭辰(Simplified)/夏銘辰(Traditional)
 
-Email: <xiamingchen2008@gmail.com> (I no longer have access to the IMJ email address.)
+Email: <xiamingchen2008@gmail.com> (<span style="color:red"> I no longer have access to the IMJ email address. </span>)
 
 Tags: [Pastafarianism](https://en.wikipedia.org/wiki/Flying_Spaghetti_Monster), anti-[Macronism](https://fr.wikipedia.org/wiki/Positions_politiques_d%27Emmanuel_Macron).
 
