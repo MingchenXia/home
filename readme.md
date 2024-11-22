@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am (virtually) unemployed and stuck in Paris for the time being. 
+I am a post-doc at Chalmers Tekniska Högskola (from December 2024 to early 2025).
 
 Previously, I was a post-doc at [IMJ-PRG](https://www.imj-prg.fr). My mentor was [Sébastien Boucksom](http://sebastien.boucksom.perso.math.cnrs.fr).
 I obtained my PhD degree at [Chalmers Tekniska Högskola](https://www.chalmers.se/sv/Sidor/default.aspx) in Sweden under the supervision of Robert Berman.
@@ -11,9 +11,11 @@ My name in Chinese: 夏铭辰(Simplified)/夏銘辰(Traditional)
 
 Email: <xiamingchen2008@gmail.com> (<span style="color:red">I no longer have access to the IMJ email address.</span>)
 
+Office: H4031 (de jure).
+
 Tags: [Pastafarianism](https://en.wikipedia.org/wiki/Flying_Spaghetti_Monster), anti-[Macronism](https://fr.wikipedia.org/wiki/Positions_politiques_d%27Emmanuel_Macron).
 
-I'm currently interested in the reverse Andreotti--Grauert theorems and Swedish. Updated on Aug 21, 2024.
+Currently I'm interested in the reverse Andreotti--Grauert theorems and Swedish. Updated on Aug 21, 2024.
 
 ![ETH](Pictures/ETH.jpg) *[Shame on ETH](https://www.reddit.com/r/ethz/comments/1gc2y1n/comment/ltqoboh/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)*
 
