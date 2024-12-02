@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a post-doc at Chalmers Tekniska Högskola (from December 2024 to early 2025).
+I am a post-doc at Chalmers Tekniska Högskola (from December 2024 to May 2025).
 
 Previously, I was a post-doc at [IMJ-PRG](https://www.imj-prg.fr). My mentor was [Sébastien Boucksom](http://sebastien.boucksom.perso.math.cnrs.fr).
 I obtained my PhD degree at [Chalmers Tekniska Högskola](https://www.chalmers.se/sv/Sidor/default.aspx) in Sweden under the supervision of Robert Berman.
