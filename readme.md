@@ -9,7 +9,7 @@ I obtained my PhD degree at [Chalmers Tekniska Högskola](https://www.chalmers.s
 
 My name in Chinese: 夏铭辰(Simplified)/夏銘辰(Traditional)
 
-Email: <xiamingchen2008@gmail.com> (<span style="color:red">I no longer have access to the IMJ email address.</span>)
+Email: <xiamingchen2008@gmail.com> (<span style="color:red">I no longer have access to the IMJ email address and the Chalmers email address.</span>)
 
 Office: H4031 (de jure).
 
