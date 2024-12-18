@@ -15,7 +15,7 @@ Office: H4031 (de jure).
 
 Tags: [Pastafarianism](https://en.wikipedia.org/wiki/Flying_Spaghetti_Monster), anti-[Macronism](https://fr.wikipedia.org/wiki/Positions_politiques_d%27Emmanuel_Macron).
 
-Currently I'm interested in the reverse Andreotti--Grauert theorems, quantum field theory and Swedish. Updated on Aug 21, 2024.
+Currently I'm interested in the reverse Andreotti--Grauert theorems, quantum field theory and Swedish. Updated on Dec 18, 2024.
 
 ![ETH](Pictures/ETH.jpg) *[Shame on ETH](https://www.reddit.com/r/ethz/comments/1gc2y1n/comment/ltqoboh/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)*
 
