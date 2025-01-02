@@ -164,6 +164,10 @@ All my preprints can be found on arXiv. See [my Google Scholar page](https://sch
 
 - [Kerodon](https://kerodon.net)
 
+- [Almost Sure](https://almostsuremath.com)
+
+- [MacTutor](https://mathshistory.st-andrews.ac.uk)
+
 ### Illegal links
 
 - [ZLibrary](https://z-library.sk)
