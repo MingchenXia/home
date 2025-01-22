@@ -58,11 +58,8 @@ The lecture notes for courses can be found on [a separate page](lecture_notes.md
 
 - Operations on transcendental non-Archimedean metrics. [arXiv:2312.17150](https://arxiv.org/abs/2312.17150)
 
-> This note is submitted to the proceeding for Bo Berndtsson's 70th birthday. It is a trivial continuation of my joint paper with Darvas and Zhang. The only notable result is Theorem 4.21. 
+> This note is submitted to [the proceeding](https://bookstore.ams.org/view?ProductCode=CONM/810) for Bo Berndtsson's 70th birthday. It is a trivial continuation of my joint paper with Darvas and Zhang. The only notable result is Theorem 4.21. 
 
-- [Note on Duistermaat--Heckman measures of non-Archimedean metrics](Notes/DHM.pdf).
-
-> In this note, I give an example illustrating the idea that the trace operator could systematically improve known inequalities in the literature.
 
 ## Beamers
 
