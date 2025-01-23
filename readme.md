@@ -56,10 +56,13 @@ The lecture notes for courses can be found on [a separate page](lecture_notes.md
 
 - Notes on Hodge theory: [Carlson's correspondence](Notes/Hodge1.pdf).
 
-- Operations on transcendental non-Archimedean metrics. [arXiv:2312.17150](https://arxiv.org/abs/2312.17150)
+- [Operations on transcendental non-Archimedean metrics](https://bookstore.ams.org/view?ProductCode=CONM/810). [arXiv:2312.17150](https://arxiv.org/abs/2312.17150).
 
-> This note is submitted to [the proceeding](https://bookstore.ams.org/view?ProductCode=CONM/810) for Bo Berndtsson's 70th birthday. It is a trivial continuation of my joint paper with Darvas and Zhang. The only notable result is Theorem 4.21. 
+> This note is a trivial continuation of my joint paper with Darvas and Zhang. The only notable result is Theorem 4.21. 
 
+- [Note on mixed volumes of currents](Note/MV.pdf)
+
+> I proved the equivalence between Cao's definition of mixed volumes and the definition using I-envelopes. A slightly different proof can be found in the first version of my paper on partial Okounkov bodies.
 
 ## Beamers
 
