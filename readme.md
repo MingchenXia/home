@@ -64,6 +64,10 @@ The lecture notes for courses can be found on [a separate page](lecture_notes.md
 
 > I proved the equivalence between Cao's definition of mixed volumes and the definition using I-envelopes. A slightly different proof can be found in the first version of my paper on partial Okounkov bodies.
 
+- [The Skoda localizations of (1,1)-currents](Notes/SL.pdf)
+
+> The main theorem was proved earlier by McCleerey. This paper is no longer intended to be published. Section 3 and 4 are still of interest and contain some new results and conjectures.
+
 ## Beamers
 
 - [Pluripotential-theoretic approach to radial energy functionals](Beamers/PTA.pdf)  Beijing university, 11/20/2020 (mm/dd/yyyy).
