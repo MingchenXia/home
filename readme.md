@@ -68,6 +68,10 @@ The lecture notes for courses can be found on [a separate page](lecture_notes.md
 
 > The main theorem was proved earlier by McCleerey. This paper is no longer intended to be published. Section 3 and 4 are still of interest and contain some new results and conjectures.
 
+- [Non-pluripolar currents are not necessarily I-good](Notes/IGE.pdf)
+
+> I construct a non-pluripolar qpsh function which is not I-good.  
+
 ## Beamers
 
 - [Pluripotential-theoretic approach to radial energy functionals](Beamers/PTA.pdf)  Beijing university, 11/20/2020 (mm/dd/yyyy).
