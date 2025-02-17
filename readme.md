@@ -9,7 +9,7 @@ I obtained my PhD degree at [Chalmers Tekniska Högskola](https://www.chalmers.s
 
 My name in Chinese: 夏铭辰(Simplified)/夏銘辰(Traditional)
 
-Email: <xiamingchen2008@gmail.com> (In case I do not reply within one week, it is very likely that the email has been thrown into the junk mail box automatically.)
+Email: <xiamingchen2008@gmail.com> My Chalmers email address (xiam@chalmers.se) is read only and loses around 50% of incoming emails. If you insist on sending emails there, please repeat doing so (at least) 7 times so that I have 99.22% chance of receiving them.
 
 Office: H4031 (de jure).
 
