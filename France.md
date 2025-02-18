@@ -76,7 +76,7 @@ The response (22/02/2024)
 
 Monsieur,
 
-Vous avez attiré lattention du Défenseur des droits sur les difficultés que vous rencontriez avec la préfecture du Val-de-Marne dans le cadre d'une demande de renouvellement d'un titre de séjour.
+Vous avez attiré l'attention du Défenseur des droits sur les difficultés que vous rencontriez avec la préfecture du Val-de-Marne dans le cadre d'une demande de renouvellement d'un titre de séjour.
 
 Suite à notre intervention auprès de la préfecture concernée, vous nous avez indiqué avoir finalement obtenu une attestation de décision favorable à votre demande. Nous vous remercions de nous avoir transmis cette information et sommes ravis de l'issue réservée à votre demande.
 
