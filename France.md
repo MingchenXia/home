@@ -30,6 +30,7 @@ Numéro de la demande : *
 > Current status: No response
 
 Monsieur/Madame,
+
 Je me permets de vous adresser la présente lettre en tant que ressortissant chinois actuellement en France. Depuis le début de cette année, je suis engagé en tant que chercheur post-doctoral, et mon séjour en France est prévu jusqu'à la fin de l'année prochaine. Mon visa arrivera à expiration le 31 décembre prochain, et bien que j'aie déposé une demande de carte de séjour à Créteil il y a plus de deux mois, la procédure semble rencontrer des retards significatifs, sans qu'aucune avancée ne soit à signaler.
 
 La situation actuelle me place dans une position préoccupante, où l'échéance de mon visa approche rapidement, et l'absence de progression dans le traitement de ma demande me laisse face au risque de me retrouver sans statut légal en France. Cette incertitude quant à ma situation administrative génère une grande anxiété et rend difficile ma vie quotidienne.
@@ -37,6 +38,7 @@ La situation actuelle me place dans une position préoccupante, où l'échéance
 C'est avec une profonde préoccupation que je sollicite votre intervention bienveillante afin de m'accorder un récépissé de demande de titre de séjour. Ceci me permettrait de régulariser ma situation en attendant la délivrance de ma carte de séjour définitive.
 
 Je vous prie d'agréer, Monsieur/Madame, l'expression de mes salutations distinguées.
+
 Mingchen Xia
 
 Mon numéro étrange *
@@ -48,10 +50,13 @@ Mon numéro étrange *
 The original manuscript was lost. The response is attached:
 
 Monsieur,
+
 Vous avez appelé l'attention du Premier ministre sur le délai de traitement du renouvellement de votre titre de séjour et les conséquences qui en résultent.
 Monsieur Gabriel ATTAL en a pris bien connaissance.
+
 Aussi m'a-t-il chargé de transmettre votre correspondance à Madame la préfète du Val-de-Marne, afin que ses services procèdent à l'examen de votre dossier.
 Je vous prie de croire, Monsieur, à l'assurance de mes salutations les meilleures.
+
 Maxime CORDIER
 
 ## Letter to Les défenseurs des droits (24/01/2024)
@@ -61,8 +66,10 @@ Maxime CORDIER
 Je suis un chercheur post-doctoral au laboratoire IMJ-PRG à Paris depuis le début de l'année dernière. Mon poste dure deux ans. J'avais un visa du type "passeport talent chercheur" qui a expiré il y a un mois.
 J'habite à Ivry. J'ai fait la demande d'un titre de séjour il y a 3 mois à 19/10/2023. Jusqu'à aujourd'hui, la préfecture n'a pas encore commencé à traiter mes documents.
 De plus, j'ai pas un récépissé non plus. C'est-à-dire, je deviens un immigrant illégal en France.
+
 J'ai essayé de contacter toutes les persons qui sont concernées mais j'ai reçu aucune réponse utile. Surtout, les réponses de la préfecture sont toujours la même.
 Une situation personnelle urgente nécessite ma présence en Chine dans les prochains jours. Mon grand-père, qui a joué un rôle essentiel dans ma vie et a contribué à mon éducation depuis mon enfance, est gravement malade. Ses jours sont comptés, et je ressens le besoin impératif de le voir une dernière fois.
+
 Malheureusement, en raison du statut actuel de ma demande de carte de séjour, je crains de ne pas pouvoir revenir en France après mon départ. Cela pourrait entraîner la perte de mon emploi et compromettre l'achèvement de mon contrat.
 
 The response (22/02/2024)
@@ -81,5 +88,6 @@ Je vous prie dagréer, Monsieur, lexpression de ma considération distingué
 
 
 Fabien DECHAVANNE - Directeur 
+
 Protection des droits - Relations avec les usagers
 
