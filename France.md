@@ -82,9 +82,9 @@ Suite à notre intervention auprès de la préfecture concernée, vous nous avez
 
 Par ailleurs, la préfecture nous a informé qu'une attestation de prolongation d'instruction valable jusqu'au 05 mars 2024 vous a été remise en attendant la fabrication de votre titre.
 
-Par conséquent, compte tenu de lévolution satisfaisante de votre situation, nous vous informons que nous procédons à la clôture de votre dossier. Toutefois, cela ne fait pas obstacle à ce que vous nous saisissiez de nouveau si vous rencontriez de nouvelles difficultés dans le cadre de vos démarches administratives - présentes ou futures - en introduisant une nouvelle réclamation auprès du Défenseur des droits.
+Par conséquent, compte tenu de l'évolution satisfaisante de votre situation, nous vous informons que nous procédons à la clôture de votre dossier. Toutefois, cela ne fait pas obstacle à ce que vous nous saisissiez de nouveau si vous rencontriez de nouvelles difficultés dans le cadre de vos démarches administratives - présentes ou futures - en introduisant une nouvelle réclamation auprès du Défenseur des droits.
 
-Je vous prie dagréer, Monsieur, lexpression de ma considération distinguée.
+Je vous prie d'agréer, Monsieur, l'expression de ma considération distinguée.
 
 
 Fabien DECHAVANNE - Directeur 
