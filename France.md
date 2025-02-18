@@ -1,6 +1,6 @@
 # About France
 
-This page is a collection of France related stuffs of [Mingchen Xia](readme.md).
+This page is a collection of France related stuffs of [Mingchen Xia](readme.md). 
 
 ## Letter to the President Emmanuel Macron (24/01/2024)
 
@@ -53,4 +53,33 @@ Monsieur Gabriel ATTAL en a pris bien connaissance.
 Aussi m'a-t-il chargé de transmettre votre correspondance à Madame la préfète du Val-de-Marne, afin que ses services procèdent à l'examen de votre dossier.
 Je vous prie de croire, Monsieur, à l'assurance de mes salutations les meilleures.
 Maxime CORDIER
+
+## Letter to Les défenseurs des droits (24/01/2024)
+
+> Current status: Response received. (22/02/2024)
+
+Je suis un chercheur post-doctoral au laboratoire IMJ-PRG à Paris depuis le début de l'année dernière. Mon poste dure deux ans. J'avais un visa du type "passeport talent chercheur" qui a expiré il y a un mois.
+J'habite à Ivry. J'ai fait la demande d'un titre de séjour il y a 3 mois à 19/10/2023. Jusqu'à aujourd'hui, la préfecture n'a pas encore commencé à traiter mes documents.
+De plus, j'ai pas un récépissé non plus. C'est-à-dire, je deviens un immigrant illégal en France.
+J'ai essayé de contacter toutes les persons qui sont concernées mais j'ai reçu aucune réponse utile. Surtout, les réponses de la préfecture sont toujours la même.
+Une situation personnelle urgente nécessite ma présence en Chine dans les prochains jours. Mon grand-père, qui a joué un rôle essentiel dans ma vie et a contribué à mon éducation depuis mon enfance, est gravement malade. Ses jours sont comptés, et je ressens le besoin impératif de le voir une dernière fois.
+Malheureusement, en raison du statut actuel de ma demande de carte de séjour, je crains de ne pas pouvoir revenir en France après mon départ. Cela pourrait entraîner la perte de mon emploi et compromettre l'achèvement de mon contrat.
+
+The response (22/02/2024)
+
+Monsieur,
+
+Vous avez attiré lattention du Défenseur des droits sur les difficultés que vous rencontriez avec la préfecture du Val-de-Marne dans le cadre d'une demande de renouvellement d'un titre de séjour.
+
+Suite à notre intervention auprès de la préfecture concernée, vous nous avez indiqué avoir finalement obtenu une attestation de décision favorable à votre demande. Nous vous remercions de nous avoir transmis cette information et sommes ravis de l'issue réservée à votre demande.
+
+Par ailleurs, la préfecture nous a informé qu'une attestation de prolongation d'instruction valable jusqu'au 05 mars 2024 vous a été remise en attendant la fabrication de votre titre.
+
+Par conséquent, compte tenu de lévolution satisfaisante de votre situation, nous vous informons que nous procédons à la clôture de votre dossier. Toutefois, cela ne fait pas obstacle à ce que vous nous saisissiez de nouveau si vous rencontriez de nouvelles difficultés dans le cadre de vos démarches administratives - présentes ou futures - en introduisant une nouvelle réclamation auprès du Défenseur des droits.
+
+Je vous prie dagréer, Monsieur, lexpression de ma considération distinguée.
+
+
+Fabien DECHAVANNE - Directeur 
+Protection des droits - Relations avec les usagers
 
