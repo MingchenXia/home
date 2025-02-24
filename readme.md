@@ -102,11 +102,6 @@ The lecture notes for courses can be found on [a separate page](lecture_notes.md
 
 All my preprints can be found on arXiv. See [my Google Scholar page](https://scholar.google.se/citations?user=1GbYhEMAAAAJ) as well.
 
-### Works in progress
-
-- [Transcendental b-divisors](Notes/TB.pdf)
-
-> I establish a transcendental intersection theory of b-divisors, answering a question of Dang--Favre. Comments are welcome.
 
 ### K-stability
 
