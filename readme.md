@@ -102,6 +102,11 @@ The lecture notes for courses can be found on [a separate page](lecture_notes.md
 
 All my preprints can be found on arXiv. See [my Google Scholar page](https://scholar.google.se/citations?user=1GbYhEMAAAAJ) as well.
 
+### Works in progress
+
+- [Transcendental b-divisors](Papers/TB.pdf)
+
+> In this paper, I study the theory of transcendental b-divisors. This paper itself is complete. I am working on a subsequent project.
 
 ### K-stability
 
