@@ -66,7 +66,11 @@ The lecture notes for courses can be found on [a separate page](lecture_notes.md
 
 - [Non-pluripolar currents are not necessarily I-good](Notes/IGE.pdf)
 
-> I construct a non-pluripolar qpsh function which is not I-good.  
+> I construct a non-pluripolar qpsh function with small unbounded locus which is not I-good.
+
+- [Note on Lagerberg forms](Notes/LF.pdf)
+
+> My note on Lagerberg forms. I summarized a few disaccords/mistakes in the literature.
 
 ## Beamers
 
