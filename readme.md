@@ -96,9 +96,7 @@ The lecture notes for courses can be found on [a separate page](lecture_notes.md
 
 - [A brief history of potential theory — From Poisson to Lelong](Beamers/HPT.pdf) Shanghai, 09/04/2024
 
-## Ymir
 
-[Ymir](https://mingchenxia.github.io/Ymir/) is intended to be a Stacks Project for complex analytic spaces and non-Archimedean analytic spaces.
 
 ## Research
 
