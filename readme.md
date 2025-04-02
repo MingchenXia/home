@@ -58,7 +58,7 @@ The lecture notes for courses can be found on [a separate page](lecture_notes.md
 
 - [Operations on transcendental non-Archimedean metrics](https://bookstore.ams.org/view?ProductCode=CONM/810). [arXiv:2312.17150](https://arxiv.org/abs/2312.17150).
 
-> This note is a trivial continuation of my joint paper with Darvas and Zhang. The only notable result is Theorem 4.21. 
+> This note is a trivial continuation of my joint paper with Darvas and Zhang. The only notable result is Theorem 4.21. <span style="color:red"> The editors put an earlier version in the final book by mistake. Please read the arXiv version instead. </span>
 
 - [Note on mixed volumes of currents](Notes/MV.pdf)
 
