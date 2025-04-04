@@ -72,6 +72,10 @@ The lecture notes for courses can be found on [a separate page](lecture_notes.md
 
 > My note on Lagerberg forms. I summarized a few disaccords/mistakes in the literature.
 
+- Notes on Ducros' book "La structure des courbes analytiques" [Chapter 3](Notes/Duc3.pdf)
+
+> My notes while learning Ducros' book.
+
 ## Beamers
 
 - [Pluripotential-theoretic approach to radial energy functionals](Beamers/PTA.pdf)  Beijing university, 11/20/2020 (mm/dd/yyyy).
