@@ -2,6 +2,8 @@
 
 This page is a collection of France related stuffs of [Mingchen Xia](readme.md). 
 
+居然真的有人会点进来看吗！更多乳法小故事敬请期待。
+
 ## Letter to the President Emmanuel Macron (24/01/2024)
 
 > Current status: No response.
