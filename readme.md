@@ -17,7 +17,7 @@ Tags: [Pastafarianism](https://en.wikipedia.org/wiki/Flying_Spaghetti_Monster), 
 
 Currently I'm interested in the theory of Gubler--Jell--Rabinoff and the conjecture of Collins--Tosatti. Updated on Mar 10, 2025.
 
-[Voleurs](Pictures/voleurs.JPG) 
+![Voleurs](Pictures/voleurs.JPG) 
 
 ## Some Problems
 
