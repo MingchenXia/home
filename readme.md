@@ -7,9 +7,7 @@ I am a post-doc at Chalmers Tekniska Högskola (from December 2024 to May 2025).
 Previously, I was a post-doc at [IMJ-PRG](https://www.imj-prg.fr). My mentor was [Sébastien Boucksom](http://sebastien.boucksom.perso.math.cnrs.fr).
 I obtained my PhD degree at [Chalmers Tekniska Högskola](https://www.chalmers.se/sv/Sidor/default.aspx) in Sweden under the supervision of Robert Berman.
 
-My name in Chinese: 夏铭辰(Simplified)/夏銘辰(Traditional)
-
-Email: <xiamingchen2008@gmail.com> My Chalmers email address (xiam@chalmers.se) is read only and loses around 50% of incoming emails. If you insist on sending emails there, please repeat doing so (at least) 7 times so that I have 99.22% chance of receiving them.
+Email: <xiamingchen2008@gmail.com> With a few exceptions, I refuse to contribute to french journals (including submitting papers, providing quick opinions or full reports).
 
 Office: H4031 (de jure).
 
