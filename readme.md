@@ -1,5 +1,3 @@
-# Welcome to my homepage
-
 ## About Me
 
 I am a post-doc at Chalmers Tekniska Högskola (from December 2024 to May 2025).
@@ -9,9 +7,7 @@ I obtained my PhD degree at [Chalmers Tekniska Högskola](https://www.chalmers.s
 
 Email: <xiamingchen2008@gmail.com> With a few exceptions, I refuse to contribute to french journals (including submitting papers, providing quick opinions or full reports).
 
-Office: H4031 (de jure).
-
-Tags: [Pastafarianism](https://en.wikipedia.org/wiki/Flying_Spaghetti_Monster), anti-[Macronism](https://fr.wikipedia.org/wiki/Positions_politiques_d%27Emmanuel_Macron). ([Why?](France.md))
+Tags: [Pastafarianism](https://en.wikipedia.org/wiki/Flying_Spaghetti_Monster), anti-[Macronism](https://fr.wikipedia.org/wiki/Positions_politiques_d%27Emmanuel_Macron) ([Why?](France.md)).
 
 Currently I'm interested in the theory of Gubler--Jell--Rabinoff and the conjecture of Collins--Tosatti. Updated on Mar 10, 2025.
 
