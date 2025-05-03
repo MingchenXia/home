@@ -9,7 +9,7 @@ Email: <xiamingchen2008@gmail.com> With a few exceptions, I refuse to contribute
 
 Tags: [Pastafarianism](https://en.wikipedia.org/wiki/Flying_Spaghetti_Monster), anti-[Macronism](https://fr.wikipedia.org/wiki/Positions_politiques_d%27Emmanuel_Macron) ([Why?](France.md)).
 
-Currently I'm interested in the theory of Gubler--Jell--Rabinoff and the conjecture of Collins--Tosatti. Updated on Mar 10, 2025.
+Currently I'm busy with suing the french bank [BNP Paribas](https://mabanque.bnpparibas/en/home) for their overcharge. Updated on May 3, 2025.
 
 ![Voleurs](Pictures/voleurs.JPG) 
 
