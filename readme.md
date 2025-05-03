@@ -11,7 +11,7 @@
 
 Email: <xiamingchen2008@gmail.com> With a few exceptions, I refuse to contribute to french journals (including submitting papers, providing quick opinions or full reports).
 
-Currently I'm busy with suing the french bank [BNP Paribas](https://mabanque.bnpparibas/en/home) for their overcharge. Updated on May 3, 2025.
+Currently I'm busy with suing the french bank [BNP Paribas](https://mabanque.bnpparibas/en/home) for their overcharges. Updated on May 3, 2025.
 
 ![Voleurs](Pictures/voleurs.JPG) 
 
