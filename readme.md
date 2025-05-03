@@ -7,7 +7,7 @@
   - The first year was spent at [IMJ-PRG](https://www.imj-prg.fr) peace and calm, mentored by [Sébastien Boucksom](http://sebastien.boucksom.perso.math.cnrs.fr). This year, I applied for the [CNRS position](https://carrieres.cnrs.fr/concours-externes-des-chercheurs-h-f/) without getting an interview.
   - The second year was characterised by the *de facto* homeless status and [endless conflicts](France.md) with the french government. This year, I applied for the CNRS position again without getting an interview and decided to leave France forever.
   - From December 2024 to May 2025, I was at Chalmers Tekniska Högskola again.
-- I will be an associate professor at the [Institute of Geometry and Physics](https://en.igp.ustc.edu.cn/main.htm) from July 2025 on.
+- I will be an associate professor at the [Institute of Geometry and Physics](https://en.igp.ustc.edu.cn/main.htm) in [Hefei](https://en.wikipedia.org/wiki/Hefei) from July 2025 on.
 
 Email: <xiamingchen2008@gmail.com> With a few exceptions, I refuse to contribute to french journals (including submitting papers, providing quick opinions or full reports).
 
