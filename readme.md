@@ -5,7 +5,7 @@
 - In October 2022, I obtained my PhD degree at [Chalmers Tekniska Högskola](https://www.chalmers.se/sv/Sidor/default.aspx) in [Sweden](https://www.campervansweden.com/blog/about-sweden/swiss-vs-swedish) under the supervision of Robert Berman.
 - Afterwards, I was a [Wallenberg postdoc](https://kaw.wallenberg.org/en/mingchen-xia) from December 2022 to May 2025.
   - The first year was spent at [IMJ-PRG](https://www.imj-prg.fr) peace and calm, mentored by [Sébastien Boucksom](http://sebastien.boucksom.perso.math.cnrs.fr). This year, I applied for the [CNRS position](https://carrieres.cnrs.fr/concours-externes-des-chercheurs-h-f/) without getting an interview.
-  - The second year was characterised by the *de facto* homeless status and [endless conflicts](France.md) with the french government. This year, I applied for the CNRS position without getting an interview and decided to leave France forever.
+  - The second year was characterised by the *de facto* homeless status and [endless conflicts](France.md) with the french government. This year, I applied for the CNRS position again without getting an interview and decided to leave France forever.
   - From December 2024 to May 2025, I was at Chalmers Tekniska Högskola again.
 - I will be an associate professor at the [Institute of Geometry and Physics](https://en.igp.ustc.edu.cn/main.htm) from July 2025 on.
 
