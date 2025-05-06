@@ -1,6 +1,26 @@
+<!-- Sidebar Navigation -->
+<div id="sidebar" style="position:fixed; top:0; left:0; width:250px; height:100%; background:#f9f9f9; box-shadow:2px 0 5px rgba(0,0,0,0.3); padding:20px; z-index:9999; overflow-y:auto;">
+  <h3>TOC</h3>
+  <ul>
+    <li><a href="#about-me">About Me</a></li>
+    <li><a href="#some-problems">Some Problems</a></li>
+    <li><a href="#notes">Notes</a></li>
+    <li><a href="#beamers">Beamers</a></li>
+    <li><a href="#research">Research</a></li>
+    <li><a href="#my-favourite-links">My favourite links</a></li>
+  </ul>
+</div>
+
+<!-- Main content -->
+<div style="margin-left:260px; padding:20px;">
+  <button onclick="document.getElementById('sidebar').style.display='block'"
+          style="position:fixed; top:10px; left:10px; z-index:10000; padding:10px; background-color:#444; color:white; border:none; border-radius:5px;">
+    TOC
+  </button>
+
 # 欢迎/歡迎/Welcome/Bienvenue/Välkommen/いらっしゃいませ
 
-## About Me
+ ## <a id="about-me"></a>About Me
 
 <details>
 
@@ -21,7 +41,7 @@ Currently I'm busy with suing the french bank [BNP Paribas](https://mabanque.bnp
 
 ![Voleurs](Pictures/voleurs.JPG) 
 
-## Some Problems
+## <a id="some-problems"></a>Some Problems
 
 This is a collection of problems arising from my own research that may be of interest to people outside my domain.  If you know the solutions to any of the following problems, please let me know.
 
@@ -31,7 +51,7 @@ This is a collection of problems arising from my own research that may be of int
 
 > By [a theorem of Jow](https://arxiv.org/abs/0902.2521), information of all Okounkov bodies determines all numerical information of line bundles. This problem asks for explicit formulae.
 
-## Notes
+## <a id="notes"></a>Notes
 
 The lecture notes for courses are available on [a separate page](lecture_notes.md).
 
@@ -77,7 +97,7 @@ The lecture notes for courses are available on [a separate page](lecture_notes.m
 
 > My notes while learning Ducros' book.
 
-## Beamers
+## <a id="research"></a>Research
 
 - [Pluripotential-theoretic approach to radial energy functionals](Beamers/PTA.pdf)  Beijing university, 11/20/2020 (mm/dd/yyyy).
 
@@ -167,7 +187,7 @@ All my preprints can be found on arXiv. See [my Google Scholar page](https://sch
 
 > The theory of non-Archimedean psh functions we developed in this paper trivally satisfies Boucksom--Jonsson's envelope conjecture (even on a general unibranch complex space), see my note [Operations on transcendental non-Archimedean metrics](Notes/OTNA.pdf).
 
-## My favourite links
+ ## <a id="my-favourite-links"></a>My favourite links
 
 ### Legal links
 
@@ -198,3 +218,5 @@ All my preprints can be found on arXiv. See [my Google Scholar page](https://sch
 - [Sci-hub](http://sci-hub.vkif.top)
 
 > Sci-hub is getting blocked in many countries recently. If the link fails to work, please try to change the domain name.
+
+</div>
