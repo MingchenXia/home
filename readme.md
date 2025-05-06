@@ -198,5 +198,3 @@ All my preprints can be found on arXiv. See [my Google Scholar page](https://sch
 - [Sci-hub](http://sci-hub.vkif.top)
 
 > Sci-hub is getting blocked in many countries recently. If the link fails to work, please try to change the domain name.
-
-</div>
