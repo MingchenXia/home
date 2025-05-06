@@ -1,6 +1,6 @@
 <!-- Sidebar Navigation -->
 <div id="sidebar" style="position:fixed; top:0; left:0; width:250px; height:100%; background:#f9f9f9; box-shadow:2px 0 5px rgba(0,0,0,0.3); padding:20px; z-index:9999; overflow-y:auto;">
-  <h3>TOC</h3>
+  <h3>Contents</h3>
   <ul>
     <li><a href="#about-me">About Me</a></li>
     <li><a href="#some-problems">Some Problems</a></li>
@@ -15,7 +15,7 @@
 <div style="margin-left:260px; padding:20px;">
   <button onclick="document.getElementById('sidebar').style.display='block'"
           style="position:fixed; top:10px; left:10px; z-index:10000; padding:10px; background-color:#444; color:white; border:none; border-radius:5px;">
-    TOC
+    Contents
   </button>
 
 # 欢迎/歡迎/Welcome/Bienvenue/Välkommen/いらっしゃいませ
