@@ -8,7 +8,7 @@
     <summary>Details</summary>
     <ul>
       <li>The first year was spent at <a href="https://www.imj-prg.fr">IMJ-PRG</a> peace and calm, mentored by <a href="http://sebastien.boucksom.perso.math.cnrs.fr">Sébastien Boucksom</a>. This year, I applied for the <a href="https://carrieres.cnrs.fr/concours-externes-des-chercheurs-h-f/">CNRS position</a> without getting an interview.</li>
-      <li>The second year was characterised by the <em>de facto</em> homeless status and <a href="France.md">endless conflicts</a> with the french government. This year, I applied for the CNRS position again without getting an interview and decided to leave France forever.</li>
+      <li>The second year was characterised by the <em>de facto</em> homeless status and endless conflicts with the french government. This year, I applied for the CNRS position again without getting an interview and decided to leave France forever.</li>
       <li>From December 2024 to May 2025, I was at Chalmers Tekniska Högskola again.</li>
     </ul>
   </details>
@@ -28,9 +28,29 @@ This is a collection of problems arising from my own research that may be of int
 
 > By [a theorem of Jow](https://arxiv.org/abs/0902.2521), information of all Okounkov bodies determines all numerical information of line bundles. This problem asks for explicit formulae.
 
-## Notes
+## Lecture notes
 
-The lecture notes for courses are available on [a separate page](lecture_notes.md).
+### Archimedean pluripotential theory
+
+- Lectures on pluripotential theory [1](Lectures/ShanghaiTech1.pdf), [2](Lectures/ShanghaiTech2.pdf), [3](Lectures/ShanghaiTech3.pdf), [4](Lectures/ShanghaiTech4.pdf).
+
+> Lecture notes for my course at Shanghai Tech university in the summer of 2023.
+
+- [Characterizations of I-good singularities](Lectures/CAS1.pdf).
+
+> Lecture notes for my course at Chinese academy of science in the summer of 2023.
+
+- [Singularities in global pluripotential theory](Lectures/SGPT.pdf).
+
+> Lecture notes for my course at Zhejiang university in the spring of 2024. This is a preliminary version containing possibly many typos. I will try to make updates at least once a month. Feel free to contact me if you have any comments. 
+
+### Non-Archimedean geometry
+
+- Lectures on non-Archimedean pluripotential theory [1](Lectures/USTC_NA_1.pdf), [2](Lectures/USTC_NA_2.pdf), [3](Lectures/USTC_NA_3.pdf), [4](Lectures/USTC_NA_4.pdf).
+
+> Lecture notes for my course at USTC in the spring of 2024.
+
+## Other notes
 
 - [LaTeX tips for working mathematicians](Notes/LaTeX_tips.pdf)
 
