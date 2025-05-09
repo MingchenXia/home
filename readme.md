@@ -7,8 +7,10 @@
   <details>
     <summary>Details</summary>
 
-    - The first year was spent at <a href="https://www.imj-prg.fr">IMJ-PRG</a> peace and calm, mentored by <a href="http://sebastien.boucksom.perso.math.cnrs.fr">Sébastien Boucksom</a>. This year, I applied for the <a href="https://carrieres.cnrs.fr/concours-externes-des-chercheurs-h-f/">CNRS position</a> without getting an interview.  
-    - The second year was characterised by the <em>de facto</em> homeless status and <a href="France.md">endless conflicts</a> with the french government. This year, I applied for the CNRS position again without getting an interview and decided to leave France forever.  
+    - The first year was spent at <a href="https://www.imj-prg.fr">IMJ-PRG</a> peace and calm, mentored by <a href="http://sebastien.boucksom.perso.math.cnrs.fr">Sébastien Boucksom</a>. This year, I applied for the <a href="https://carrieres.cnrs.fr/concours-externes-des-chercheurs-h-f/">CNRS position</a> without getting an interview.
+      
+    - The second year was characterised by the <em>de facto</em> homeless status and <a href="France.md">endless conflicts</a> with the french government. This year, I applied for the CNRS position again without getting an interview and decided to leave France forever.
+      
     - From December 2024 to May 2025, I was at Chalmers Tekniska Högskola again.
 
   </details>
