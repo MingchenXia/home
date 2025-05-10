@@ -12,7 +12,7 @@
       <li>From December 2024 to May 2025, I was at Chalmers Tekniska Högskola again.</li>
     </ul>
   </details>
-- I will be an associate professor at the <a href="https://en.igp.ustc.edu.cn/main.htm">Institute of Geometry and Physics</a> in <a href="https://en.wikipedia.org/wiki/Hefei">Hefei</a> from July 2025 on.
+- I will be an assistant professor at the <a href="https://en.igp.ustc.edu.cn/main.htm">Institute of Geometry and Physics</a> in <a href="https://en.wikipedia.org/wiki/Hefei">Hefei</a> from July 2025 on.
 
 Email: <xiamingchen2008@gmail.com> With a few exceptions, I refuse to contribute to french journals (including submitting papers, providing quick opinions or full reports).
 
