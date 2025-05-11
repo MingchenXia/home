@@ -1,4 +1,4 @@
-# 欢迎/歡迎/Welcome/Bienvenue/Välkommen/いらっしゃいませ
+# 欢迎/歡迎/Welcome/Välkommen/いらっしゃいませ
 
 ## About Me
 
