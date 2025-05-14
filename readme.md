@@ -16,9 +16,7 @@
 
 Email: <xiamingchen2008@gmail.com> 
 
-> Good to know before contacting me:
-  - With a few exceptions, I refuse to contribute to french journals.
-  - I stopped working on K-stability since 2021.
+> Good to know before contacting me: 1. With a few exceptions, I refuse to contribute to french journals. 2. I stopped working on K-stability since 2021. 3. My given name is Mingchen instead of Xia.
 
 ![Voleurs](Pictures/voleurs.JPG) 
 
