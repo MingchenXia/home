@@ -14,7 +14,11 @@
   </details>
 - I will be an assistant professor at the <a href="https://en.igp.ustc.edu.cn/main.htm">Institute of Geometry and Physics</a> in <a href="https://en.wikipedia.org/wiki/Hefei">Hefei</a> from July 2025 on.
 
-Email: <xiamingchen2008@gmail.com> With a few exceptions, I refuse to contribute to french journals (including submitting papers, providing quick opinions or full reports).
+Email: <xiamingchen2008@gmail.com> 
+
+> Good to know before contacting me:
+  - With a few exceptions, I refuse to contribute to french journals.
+  - I stopped working on K-stability since 2021.
 
 ![Voleurs](Pictures/voleurs.JPG) 
 
