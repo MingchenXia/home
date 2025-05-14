@@ -42,7 +42,7 @@ This is a collection of problems arising from my own research that may be of int
 
 - [Singularities in global pluripotential theory](Lectures/SGPT.pdf).
 
-> Lecture notes for my course at Zhejiang university in the spring of 2024. This is a preliminary version containing possibly many typos. I will try to make updates at least once a month. Feel free to contact me if you have any comments. 
+> Lecture notes for my course at Zhejiang university in the spring of 2024. 
 
 ### Non-Archimedean geometry
 
