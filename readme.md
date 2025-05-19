@@ -44,7 +44,7 @@ This is a collection of problems arising from my own research that may be of int
 
 - [Singularities in global pluripotential theory](Lectures/SGPT.pdf).
 
-> Lecture notes for my course at Zhejiang university in the spring of 2024. 
+> Lecture notes for my course at Zhejiang university in the spring of 2024. Please let me know if you find any typos/mistakes or find any of the arguments unclear.
 
 ### Non-Archimedean geometry
 
