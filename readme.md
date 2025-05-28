@@ -120,6 +120,8 @@ This is a collection of problems arising from my own research that may be of int
 
 - [A brief history of potential theory — From Poisson to Lelong](Beamers/HPT.pdf) Shanghai, 09/04/2024
 
+- [Transcendental b-divisors](Beamers/TBD.pdf) Göteborg, 05/28/2025.
+
 
 
 ## Research
