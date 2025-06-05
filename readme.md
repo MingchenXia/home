@@ -20,7 +20,7 @@ Email: <xiamingchen2008@gmail.com>
 
 ![Missing France](Pictures/Missing_France2.png) 
 
-Adjö Sverige!
+Adjö Sverige! Something is wrong? Read the last page of [my slides](Beamers/TBD.pdf).
 
 ## Some Problems
 
