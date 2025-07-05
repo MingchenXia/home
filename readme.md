@@ -115,6 +115,15 @@ This is a collection of problems arising from my own research that may be of int
 
 - [Les singularités $\mathcal{I}$-bonnes --- L'intersection entre la théorie analytique et la théorie algébrique](Beamers/IBS.pdf) IMJ-PRG, 01/03/2023.
 
+  <div id="current-date" style="font-size: 1.1em; font-weight: bold;"></div>
+
+<script>
+  const now = new Date();
+  const options = { year: 'numeric', month: 'long', day: 'numeric' };
+  const formatted = now.toLocaleDateString('en-US', options);
+  document.getElementById('current-date').textContent = ` I have not received the reimbursement for the lunch before this talk until ${formatted}`;
+</script>
+
 - [A transcendental approach to non-Archimedean metrics](Beamers/TAnA.pdf) Göteborg, 05/04/2023.
 
 - [Transcendental Okounkov bodies and the trace operator of currents](Beamers/TOB.pdf) Toulouse, 10/05/2023.
