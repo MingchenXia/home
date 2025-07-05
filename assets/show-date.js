@@ -5,6 +5,6 @@ document.addEventListener("DOMContentLoaded", function () {
 
   const dateDiv = document.getElementById('current-date');
   if (dateDiv) {
-    dateDiv.textContent = `Today is ${formatted}`;
+    dateDiv.textContent = `I have not received the reimbursement for the lunch before this talk until ${formatted}`;
   }
 });
