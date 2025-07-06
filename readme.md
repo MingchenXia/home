@@ -115,7 +115,7 @@ This is a collection of problems arising from my own research that may be of int
 
 - [Les singularités $\mathcal{I}$-bonnes --- L'intersection entre la théorie analytique et la théorie algébrique](Beamers/IBS.pdf) IMJ-PRG, 01/03/2023.
 
- <div id="current-date" style="font-size: 1.1em; color: red;"></div>
+ <div id="current-date" style="font-size: 1.0em;"></div>
 
 <script>
   const now = new Date();
