@@ -85,10 +85,6 @@ This is a collection of problems arising from my own research that may be of int
 
 > This note is a trivial continuation of my joint paper with Darvas and Zhang. The only notable result is Theorem 4.21. <span style="color:red"> The editors put an earlier version in the final book by mistake. Please read the arXiv version instead. </span>
 
-- [Note on mixed volumes of currents](Notes/MV.pdf)
-
-> I proved the equivalence between Cao's definition of mixed volumes and the definition using I-envelopes. A slightly different proof can be found in the first version of my paper on partial Okounkov bodies.
-
 - [Non-pluripolar currents are not necessarily I-good](Notes/IGE.pdf)
 
 > I construct a non-pluripolar qpsh function with small unbounded locus which is not I-good.
