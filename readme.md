@@ -225,9 +225,9 @@ All my preprints can be found on arXiv. See [my Google Scholar page](https://sch
 
 > Updated on Nov 8, 2024.
 
-- [Libgen](http://gen.lib.rus.ec)
+- [Libgen](https://libgen.vg)
 
-> If you hate Elsevier or like free knowledge, please download books from these links.
+> Updated on Jul 21, 2025.
 
 - [Sci-hub](http://sci-hub.vkif.top)
 
