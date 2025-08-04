@@ -89,10 +89,6 @@ This is a collection of problems arising from my own research that may be of int
 
 > I construct a non-pluripolar qpsh function with small unbounded locus which is not I-good.
 
-- [Note on Lagerberg forms](Notes/LF.pdf)
-
-> My note on Lagerberg forms. I summarized a few disaccords/mistakes in the literature.
-
 - Notes on Ducros' book "La structure des courbes analytiques" [Chapter 3](Notes/Duc3.pdf), [Chapter 4](Notes/Duc4.pdf)
 
 > My notes while learning Ducros' book.
