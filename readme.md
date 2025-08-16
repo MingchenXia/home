@@ -187,7 +187,7 @@ All my preprints can be found on arXiv. See [my Google Scholar page](https://sch
 
 - On Liu morphisms in non-Archimedean geometry, ***Israel Journal of Mathematics, (2022)***. [arXiv:2106.08032](https://arxiv.org/abs/2106.08032) [Journal link](https://link.springer.com/article/10.1007/s11856-022-2456-6)
 
-> In the complex analytic setting, very similar arguments (using Fréchet algebras instead of Banach algebras) give the notion of Stein morphisms. It is of interest to see if these morphisms are useful.
+> In the complex analytic setting, very similar arguments (using Fréchet algebras instead of Banach algebras) give the notion of Stein morphisms. It is of interest to see if these morphisms are useful. <span style="color:red"> M. Maculan pointed out that Liu morphisms are not G-local on the target, see the [corrected version](Papers/Liu.pdf). </span> I will update arXiv in a few days.
 
 - Analytic Bertini theorem, ***Mathematische Zeitschrift***, (2022).  [arXiv:2110.14971](https://arxiv.org/abs/2110.14971) [Journal link](https://link.springer.com/article/10.1007/s00209-022-03103-7)
 
