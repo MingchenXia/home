@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am an assistant professor at the <a href="https://en.igp.ustc.edu.cn/main.htm">Institute of Geometry and Physics</a> in <a href="https://en.wikipedia.org/wiki/Hefei">Hefei</a>.
+I am a “Professor by Special Appointment” at the <a href="https://en.igp.ustc.edu.cn/main.htm">Institute of Geometry and Physics</a> in <a href="https://en.wikipedia.org/wiki/Hefei">Hefei</a>.
 
 - In October 2022, I obtained my PhD degree at <a href="https://www.chalmers.se/sv/Sidor/default.aspx">Chalmers Tekniska Högskola</a> in <a href="https://www.campervansweden.com/blog/about-sweden/swiss-vs-swedish">Sweden</a> under the supervision of Robert Berman.
 - Afterwards, I was a <a href="https://kaw.wallenberg.org/en/mingchen-xia">Wallenberg postdoc</a> from December 2022 to May 2025.
