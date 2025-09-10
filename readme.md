@@ -49,9 +49,9 @@ This is a collection of problems arising from my own research that may be of int
 
 > Lecture notes for my course at Chinese academy of science in the summer of 2023.
 
-- [Singularities in global pluripotential theory](Lectures/SGPT.pdf).
+- [Singularities in global pluripotential theory](Lectures/SGPT2.pdf). Revised in September 2025.
 
-> Lecture notes for my course at Zhejiang university in the spring of 2024. Please let me know if you find any typos/mistakes or find any of the arguments unclear.
+> Lecture notes for my course at Zhejiang university in the spring of 2024. Please let me know if you find any typos/mistakes or find any of the arguments unclear. The original version before the revision is still available here: [Singularities in global pluripotential theory](Lectures/SGPT.pdf), which is kept simply for the ease of the referee of my paper "Transcendental b-divisors".
 
 ### Non-Archimedean geometry
 
