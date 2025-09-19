@@ -4,6 +4,18 @@ This is the homepage of a complex geometry seminar organized by [Mingchen Xia](r
 
 ## Forthcoming talks
 
+Speaker: [Jiyuan Han](https://its.westlake.edu.cn/info/1108/1277.htm), Westlake University
+
+Title: TBA
+
+Time: Oct. 10, 2025 (Friday)  
+
+> Abstract: TBA
+
+
+
+## Past talks
+
 Speaker: [Zhiwei Wang](http://math0.bnu.edu.cn/~wangzw/), Beijing Normal University
 
 Title: Recent progress on the SOS conjecture
@@ -12,9 +24,8 @@ Time: Sep. 19, 2025 (Friday) 10:00~11:00
 
 > Abstract: In this talk, we will introduce our recent progress on the study of the SOS conjecture (proposed by Ebenfelt), which is closely related to the Huang-Ji-Yin gap conjecture in the study of rational proper maps between the complex unit balls. This is based on joint work with Chenlong Yue and Professor Xiangyu Zhou.
 
-
-
-## Past talks
+![Wang250919](Seminar/Wang250919.HEIC) 
+---
 
 Speaker: [Zhangchi Chen](https://math.ecnu.edu.cn/en/facultydetailen.html?uid=zcchen), East China Normal University
 
