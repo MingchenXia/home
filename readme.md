@@ -39,6 +39,8 @@ This is a collection of problems arising from my own research that may be of int
 
 ## Lecture notes
 
+> Fere libenter homines id quod volunt credunt.
+
 ### Archimedean pluripotential theory
 
 - Lectures on pluripotential theory [1](Lectures/ShanghaiTech1.pdf), [2](Lectures/ShanghaiTech2.pdf), [3](Lectures/ShanghaiTech3.pdf), [4](Lectures/ShanghaiTech4.pdf).
