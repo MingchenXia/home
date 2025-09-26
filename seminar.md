@@ -6,11 +6,16 @@ This is the homepage of a complex geometry seminar organized by [Mingchen Xia](r
 
 Speaker: [Jiyuan Han](https://its.westlake.edu.cn/info/1108/1277.htm), Westlake University
 
-Title: TBA
+Title: On the existence of weighted-cscK metrics
 
-Time: Oct. 10, 2025 (Friday)  
+Time: Oct. 10, 2025 (Friday)  10:00-11:00
 
-> Abstract: TBA
+> Abstract: Weight-cscK metrics provide a universal framework for the study of canonical metrics, 
+e.g, extremal metrics, Kahler Ricci soliton metrics, \mu-cscK metrics. In joint works with Yaxiong Liu, 
+we prove that on a Kahler manifold X, the G-coercivity of weighted Mabuchi functional implies the 
+existence of weighted-cscK metrics.  In particular, there exists a weighted-cscK metric if X is a 
+projective manifold that is weighted K-stable for models.  We will also discuss some
+progress on singular varieties.
 
 
 
