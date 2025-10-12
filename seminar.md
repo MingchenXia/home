@@ -10,7 +10,7 @@ Speaker: Yan He, Norwegian University of Science and Technology(NTNU)
 
 Title: Ross--Witt Nyström Correspondence and Ohsawa--Takegoshi extension theorem
 
-Time: Oct. 16, 2025 (Thursday)  13:30-14:30
+Time: Oct. 16, 2025 (Thursday)  13:30~14:30
 
 > Abstract: In this talk, I introduce the correspondence between analytic test curves and the geodesic rays in the space of Kähler potentials by Legendre transform and how this gives a better L2 estimate in the Ohsawa--Takegoshi theorem.
 
@@ -30,7 +30,7 @@ Speaker: [Jiyuan Han](https://its.westlake.edu.cn/info/1108/1277.htm), Westlake 
 
 Title: On the existence of weighted-cscK metrics
 
-Time: Oct. 10, 2025 (Friday)  10:00-11:00
+Time: Oct. 10, 2025 (Friday)  10:00~11:00
 
 > Abstract: Weight-cscK metrics provide a universal framework for the study of canonical metrics, e.g, extremal metrics, Kähler Ricci soliton metrics, µ-cscK metrics. In joint works with Yaxiong Liu, we prove that on a Kahler manifold X, the G-coercivity of weighted Mabuchi functional implies the existence of weighted-cscK metrics.  In particular, there exists a weighted-cscK metric if X is a projective manifold that is weighted K-stable for models.  We will also discuss some progress on singular varieties.
 
