@@ -6,16 +6,6 @@ If you wish to visit USTC and give a talk, please contact Mingchen.
 
 ## Forthcoming talks
 
-Speaker: [Jiyuan Han](https://its.westlake.edu.cn/info/1108/1277.htm), Westlake University
-
-Title: On the existence of weighted-cscK metrics
-
-Time: Oct. 10, 2025 (Friday)  10:00-11:00
-
-> Abstract: Weight-cscK metrics provide a universal framework for the study of canonical metrics, e.g, extremal metrics, Kähler Ricci soliton metrics, µ-cscK metrics. In joint works with Yaxiong Liu, we prove that on a Kahler manifold X, the G-coercivity of weighted Mabuchi functional implies the existence of weighted-cscK metrics.  In particular, there exists a weighted-cscK metric if X is a projective manifold that is weighted K-stable for models.  We will also discuss some progress on singular varieties.
-
----
-
 Speaker: Yan He, Norwegian University of Science and Technology(NTNU)
 
 Title: Ross--Witt Nyström Correspondence and Ohsawa--Takegoshi extension theorem
@@ -35,6 +25,18 @@ Time: Oct. 30, 2025 (Thursday)
 > Abstract: When Kahler manifold (X, L) admits cscK metrics, Donaldson uses the balanced metrics to quantize the cscK metrics. In the opposite case, if (X, L) is K-unstable, then the Kodaira embedding of X via |kL| would be Chow-unstable when k is large enough. In this case, we have a maximal K-destabilizer due to Xia and Li, and a sequence of maximal Chow-destabilizers due to Kempf. A natural question is whether the latter will converge to the former in a certain sense. We propose a variational approach based on Boucksom-Jonsson’s non-Archimedean pluripotential theory. We shall start with the toric setting, where things become very concrete.
 
 ## Past talks
+
+Speaker: [Jiyuan Han](https://its.westlake.edu.cn/info/1108/1277.htm), Westlake University
+
+Title: On the existence of weighted-cscK metrics
+
+Time: Oct. 10, 2025 (Friday)  10:00-11:00
+
+> Abstract: Weight-cscK metrics provide a universal framework for the study of canonical metrics, e.g, extremal metrics, Kähler Ricci soliton metrics, µ-cscK metrics. In joint works with Yaxiong Liu, we prove that on a Kahler manifold X, the G-coercivity of weighted Mabuchi functional implies the existence of weighted-cscK metrics.  In particular, there exists a weighted-cscK metric if X is a projective manifold that is weighted K-stable for models.  We will also discuss some progress on singular varieties.
+
+![Han251010](Seminar/Han251010.HEIC) 
+
+---
 
 Speaker: [Zhiwei Wang](http://math0.bnu.edu.cn/~wangzw/), Beijing Normal University
 
