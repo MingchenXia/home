@@ -6,7 +6,7 @@ If you wish to visit USTC and give a talk, please contact Mingchen.
 
 ## Forthcoming talks
 
-Speaker: Yan He, Norwegian University of Science and Technology(NTNU)
+Speaker: Yan He, Norwegian University of Science and Technology (NTNU)
 
 Title: Ross--Witt Nyström Correspondence and Ohsawa--Takegoshi extension theorem
 
@@ -16,15 +16,28 @@ Time: Oct. 16, 2025 (Thursday)  13:30~14:30
 
 ---
 
+Speaker: [Siarhei Finski](https://finski.info), École Polytechnique
+
+Title: Kobayashi--Hitchin correspondence for polarized fibrations
+
+Time: Oct. 29, 2025 (Wednesday)  
+
+> Abstract: A Hermitian metric on a holomorphic vector bundle is said to be Hermite-Einstein if its mean curvature is proportional to the identity operator. The Kobayashi-Hitchin correspondence (or the Donaldson-Uhlenbeck-Yau theorem) asserts that a holomorphic vector bundle admits a Hermite-Einstein metric if and only if it satisfies the algebraic condition of slope polystability.
+>
+> In this talk, I will describe a recent extension of the Kobayashi-Hitchin correspondence to general fibrations beyond holomorphic vector bundles. Specifically, for a polarized family of complex projective manifolds, we examine the so-called Wess-Zumino-Witten (WZW) equation, which specializes to the Hermite-Einstein equation, when the polarized fibration is associated with a projectivization of a holomorphic vector bundle. We establish that the existence of approximate solutions to this equation is equivalent to the asymptotic semistability of the direct image sheaves associated with high tensor powers of the polarizing line bundle.
+
+---
+
 Speaker: [Yi Yao](https://grzy.hnu.edu.cn/mobile/m_index/yaoyi), Hunan University
 
 Title: Maximal destabilizers for Chow and K-stability
 
-Time: Oct. 30, 2025 (Thursday)  
+Time: Oct. 30, 2025 (Thursday)  10:00~11:00
 
 > Abstract: When Kahler manifold (X, L) admits cscK metrics, Donaldson uses the balanced metrics to quantize the cscK metrics. In the opposite case, if (X, L) is K-unstable, then the Kodaira embedding of X via \|kL\| would be Chow-unstable when k is large enough. In this case, we have a maximal K-destabilizer due to Xia and Li, and a sequence of maximal Chow-destabilizers due to Kempf. A natural question is whether the latter will converge to the former in a certain sense. We propose a variational approach based on Boucksom-Jonsson’s non-Archimedean pluripotential theory. We shall start with the toric setting, where things become very concrete.
 
----
+
+
 
 ## Past talks
 
