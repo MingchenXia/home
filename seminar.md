@@ -6,16 +6,6 @@ If you wish to visit USTC and give a talk, please contact Mingchen.
 
 ## Forthcoming talks
 
-Speaker: Yan He, Norwegian University of Science and Technology (NTNU)
-
-Title: Ross--Witt Nyström Correspondence and Ohsawa--Takegoshi extension theorem
-
-Time: Oct. 16, 2025 (Thursday)  13:30~14:30
-
-> Abstract: In this talk, I introduce the correspondence between analytic test curves and the geodesic rays in the space of Kähler potentials by Legendre transform and how this gives a better L2 estimate in the Ohsawa--Takegoshi theorem.
-
----
-
 Speaker: [Siarhei Finski](https://finski.info), École Polytechnique
 
 Title: Kobayashi--Hitchin correspondence for polarized fibrations
@@ -40,6 +30,19 @@ Time: Oct. 30, 2025 (Thursday)  10:00~11:00
 
 
 ## Past talks
+
+
+Speaker: Yan He, Norwegian University of Science and Technology (NTNU)
+
+Title: Ross--Witt Nyström Correspondence and Ohsawa--Takegoshi extension theorem
+
+Time: Oct. 16, 2025 (Thursday)  13:30~14:30
+
+> Abstract: In this talk, I introduce the correspondence between analytic test curves and the geodesic rays in the space of Kähler potentials by Legendre transform and how this gives a better L2 estimate in the Ohsawa--Takegoshi theorem.
+
+![He251016](Seminar/He251016.HEIC) 
+
+---
 
 Speaker: [Jiyuan Han](https://its.westlake.edu.cn/info/1108/1277.htm), Westlake University
 
