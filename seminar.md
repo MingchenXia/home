@@ -10,7 +10,7 @@ Speaker: [Siarhei Finski](https://finski.info), École Polytechnique
 
 Title: Kobayashi--Hitchin correspondence for polarized fibrations
 
-Time: Oct. 29, 2025 (Wednesday)  
+Time: Oct. 30, 2025 (Thursday) 9:30~10:20  
 
 > Abstract: A Hermitian metric on a holomorphic vector bundle is said to be Hermite-Einstein if its mean curvature is proportional to the identity operator. The Kobayashi-Hitchin correspondence (or the Donaldson-Uhlenbeck-Yau theorem) asserts that a holomorphic vector bundle admits a Hermite-Einstein metric if and only if it satisfies the algebraic condition of slope polystability.
 >
@@ -22,7 +22,7 @@ Speaker: [Yi Yao](https://grzy.hnu.edu.cn/mobile/m_index/yaoyi), Hunan Universit
 
 Title: Maximal destabilizers for Chow and K-stability
 
-Time: Oct. 30, 2025 (Thursday)  10:00~11:00
+Time: Oct. 30, 2025 (Thursday)  10:40~11:30
 
 > Abstract: When Kahler manifold (X, L) admits cscK metrics, Donaldson uses the balanced metrics to quantize the cscK metrics. In the opposite case, if (X, L) is K-unstable, then the Kodaira embedding of X via \|kL\| would be Chow-unstable when k is large enough. In this case, we have a maximal K-destabilizer due to Xia and Li, and a sequence of maximal Chow-destabilizers due to Kempf. A natural question is whether the latter will converge to the former in a certain sense. We propose a variational approach based on Boucksom-Jonsson’s non-Archimedean pluripotential theory. We shall start with the toric setting, where things become very concrete.
 
