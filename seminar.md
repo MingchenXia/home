@@ -7,15 +7,7 @@ If you wish to visit USTC and give a talk, please contact Mingchen.
 ## Forthcoming talks
 
 
-Speaker: [Quang-Tuan Dang](https://quangtuandang.github.io/Webpage/), Tsinghua University
 
-Title: Degeneration of conic Kähler--Einstein metrics in big classes
-
-Time: Nov. 5, 2025 (Wednesday) 9:30~10:30
-
-> Abstract: Let X be a compact Kähler manifold and D a simple normal crossing divisor on $X$ such that K_X+D is merely big. I will present a recent joint work with Duc-Viet Vu in which we establish the weak convergence of conical Kähler--Einstein metrics of negative curvature to a singular Kähler-Einstein metric in the class c_1(K_X+D). This partially answers a question posed by Biquard and Guenancia.
-
----
 
 Speaker: [Virgile Tapiero](https://vtapiero.pages.math.cnrs.fr), IMFP
 
@@ -27,9 +19,51 @@ Time: Nov. 13, 2025 (Thursday) 10:00~11:00
 >
 > μ is also a Monge-Ampère mass: μ = T ∧ T the autointersection of the Green current T of f. R. Dujardin proved (2012) that μ << Trace(T) implies L_2 = (log d)/2. He also addressed the question of the reverse property. In this talk, we will focus on the case L_1 > L_2 = (log d)/2. I will explain how to prove that L_2 = (log d)/2 implies μ << Trace(T), answering Dujardin’s question. The techniques involved are based on pluripotential theory, ergodic theory, and the use of normal forms for the dynamics.
 
+---
 
+Speaker: [Genglong Lin](https://www.bimsa.cn/detail/GenglongLin.html), BIMSA
+
+Title: Degenerate Hessian type equations on compact Hermitian manifolds
+
+Time: Nov. 28, 2025 (Friday) 10:00~11:00
+
+> Abstract: In this talk we will discuss my recent progress on a class of degenerate Monge--Ampère equations in a nef class on compact Hermitian manifolds. The method combines with a series work of Darvas--Di Nezza--Lu.  Secondly, we will talk about the finite energy range of Hessian equations on compact Kähler manifold. The proof is different from Darvas--Di Nezza--Lu’s. Partially based on joint work with Yinji Li and Xiangyu Zhou.
+
+---
+
+Speaker: [Ying Wang](https://ywangx.github.io/home/), University of Michigan
+
+Title: Non-Archimedean Calabi--Yau potentials on certain affine varieties
+
+Time: Dec. 18, 2025 (Thursday) 10:00~11:00
+
+> We solve a non-Archimedean Monge-Ampère equation on the Berkovich analytification of a complex log Calabi-Yau pair whose dual complex is a standard simplex, answering a question of Collins-Li and offering a non-Archimedean analog of Ricci-flat metric potentials on complex affine varieties. This work builds on the solution to a complex Monge--Ampère equation obtained by Collins--Li and Collins--Tong--Yau.
+>
+> We also show the suitably rescaled limits of the complex potentials coincide with their non-Archimedean counterparts in some situations, strengthening their connections.
+
+---
+
+Speaker: [Trung Nghiem](https://sites.google.com/view/trung-nghiem), Université Claude Bernard Lyon 1
+
+Title: An effective construction of asymptotically conical Calabi--Yau metrics
+
+Time: TBA
+
+> An asymptotically conical Calabi--Yau manifold is a Ricci-flat Kähler manifold whose shape, when zoomed out towards infinity, looks like a Calabi--Yau cone. A recent work of Conlon--Hein shows that an AC Calabi--Yau manifold is obtained either by algebraic deformations or crepant resolution in a reversible and exhaustive process. In terms of the metric on the cone, the behavior of the AC Calabi--Yau metric is said to be quasi-regular or irregular. Examples of the latter are notoriously rare in the literature: in fact the only such example before our work was built by Conlon--Hein using ad-hoc computations; but there had been no explicit way to obtain them, and an open question in their paper was whether there exist more metrics of the same kind. In my talk, I'll present an effective strategy to construct new irregular AC Calabi--Yau manifolds via Altmann's deformation theory of isolated toric Calabi--Yau cones. This is a joint work with Ronan Conlon (University of Texas, Dallas).
 
 ## Past talks
+
+Speaker: [Quang-Tuan Dang](https://quangtuandang.github.io/Webpage/), Tsinghua University
+
+Title: Degeneration of conic Kähler--Einstein metrics in big classes
+
+Time: Nov. 5, 2025 (Wednesday) 9:30~10:30
+
+> Abstract: Let X be a compact Kähler manifold and D a simple normal crossing divisor on $X$ such that K_X+D is merely big. I will present a recent joint work with Duc-Viet Vu in which we establish the weak convergence of conical Kähler--Einstein metrics of negative curvature to a singular Kähler-Einstein metric in the class c_1(K_X+D). This partially answers a question posed by Biquard and Guenancia.
+
+![Dang251105](Seminar/Dang251105.jpg) 
+
+---
 
 Speaker: [Yi Yao](https://grzy.hnu.edu.cn/mobile/m_index/yaoyi), Hunan University
 
