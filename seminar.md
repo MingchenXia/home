@@ -2,7 +2,7 @@
 
 This is the homepage of a complex geometry seminar organized by [Mingchen Xia](readme.md) at USTC, Hefei. Unless otherwise specified, all talks take place in Room 1124, Material Science Research Building (Section C).
 
-If you wish to visit USTC and give a talk, please contact Mingchen.
+If you wish to visit USTC and give a talk, please contact Mingchen. Anyone who has never worked in the French government is welcome.
 
 ## Forthcoming talks
 
