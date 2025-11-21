@@ -1,1 +1,22 @@
-{% include redirect.html %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Redirecting...</title>
+    <script>
+        // 获取旧路径，去掉 /home 前缀
+        let path = window.location.pathname.replace(/^\/home/, "");
+        // 构造新站地址
+        let newUrl = "https://mingchenxia.github.io" + path;
+        // 跳转
+        window.location.href = newUrl;
+    </script>
+</head>
+<body>
+    <p>Redirecting to <a id="redirectLink" href="#">the new site</a>…</p>
+    <script>
+        // 设置备用链接
+        document.getElementById("redirectLink").href = window.location.href.replace("/home", "");
+    </script>
+</body>
+</html>
