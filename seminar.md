@@ -3,5 +3,5 @@
 <meta http-equiv="refresh" content="0; url=https://mingchenxia.github.io/seminar.html">
 <title>Redirecting…</title>
 <body>
-Redirecting… <a href="https://mingchenxia.github.io/seminar.html">Click here</a>
+Redirecting… <a href="https://mingchenxia.github.io/seminar">Click here</a>
 </body>
